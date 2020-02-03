@@ -10,7 +10,7 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 
 * To maybe visit/contact:
   * There is a DIY bike show called [Bespoked](http://www.bespoked.cc/) which is awesome and would be worth a visit, even though it's in May. It's also in Bristol though, which is good, because it could have been anywhere in Europe.
-  * The Bicycle Academy in Frome has various courses to teach people how to build a bike frame from scratch (by welding). They can be a bit expensive, though.
+  * The Bicycle Academy in Frome has various courses to teach people how to build a bike frame from scratch (by welding). They can be a bit expensive, though. They also make and sell their own jigs, which are often cheaper than alternatives.
   * Julian House has truckloads of scrap bikes that I could have for free and take apart, cut up, or canabalise for parts. They're also always happy to answer questions about bike contruction and maintenance.
 * To look into:
   * Bike fitting jigs are contraptions designed to have a totally adjustable geometry (wheelbase, rake, etc.) to allow riders to find a geometry suitable for them.
@@ -26,3 +26,12 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
   
   Bike frame anatomy, for reference:  
 ![alt text](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/image003_c20pa6.jpg "bike frame anatomy")
+
+### Other
+[ ] email Jerome and Alex to setup meeting
+[ ] message people about setting up regular breakfast meetups for structure and accountability
+[x] start project log
+[x] go talk to Julian House
+
+
+
