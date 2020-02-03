@@ -33,6 +33,7 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 - [ ] message people about setting up regular breakfast meetups for structure and accountability
 - [x] start project log
 - [x] go talk to Julian House
+- [ ] assign new timescale to tasklist from PSP, and plan this week in more detail
 
 
 
