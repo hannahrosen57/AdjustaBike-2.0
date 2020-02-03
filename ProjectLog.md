@@ -28,10 +28,10 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 ![alt text](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/image003_c20pa6.jpg "bike frame anatomy")
 
 ### Other
-[ ] email Jerome and Alex to setup meeting
-[ ] message people about setting up regular breakfast meetups for structure and accountability
-[x] start project log
-[x] go talk to Julian House
+- [ ] email Jerome and Alex to setup meeting
+- [ ] message people about setting up regular breakfast meetups for structure and accountability
+- [x] start project log
+- [x] go talk to Julian House
 
 
 
