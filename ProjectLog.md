@@ -15,6 +15,7 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 * To look into:
   * Bike fitting jigs are contraptions designed to have a totally adjustable geometry (wheelbase, rake, etc.) to allow riders to find a geometry suitable for them.
   * Folding bikes such as the [Fubifixie](https://fubifixie.com/) and [split frame](https://splitbikes.com/products/split-frame-kit) [bikes](https://splitbikes.com/products/split-frame-kit), which have a threaded tube joining the two halves of the top tube together
+  * DIY fork or outsource fork?
 * To know:
   * The head tube and bottom bracket are usually mass produced and bought in
   * The seatpost comes in lots of different sizes to fit the seat tube. Tolerances are important
