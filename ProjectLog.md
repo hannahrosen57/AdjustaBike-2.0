@@ -44,15 +44,31 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 Didn't get much done today. Struggling with stucture and knowing where to start. Hopefully the breakfast club and planning will help with that.
 
 ## Wednesday 5th February
-- [ ] Research mechanical design synthesis and plan how to develop criteria
+- [x] Research mechanical design synthesis and plan how to develop criteria
 - [x] Got in touch with Alex RE meeting, and he's already emailed Jerome
 - [x] Assigned new timescale to tasklist and uploaded here
-- [ ] Upload and type up backlog of meeting minutes, reports, etc, to GitHub
-- [ ] Figure out a system for weekly planning and plan next week
+- [ ] Upload and type up backlog of meeting minutes, reports, etc, to GitHub (started)
+- [x] Figure out a system for weekly planning and plan next week
 - [x] Update Project Log for yesterday
-- [ ] Update Project Log for today
+- [x] Update Project Log for today
 - [ ] Emails
 - [x] Read through presentation from Monday
+
+- I will plan each week on a paper calendar to allow for easy adjustment. Initially I will just print these out, but I'll try to buy a pad them when I see one.
+- With regards to researching mechanical design synthesis, the following books were consulted:
+  - MECHANICAL DESIGN SYNTHESIS by RC Johnson
+  - MECHANICAL DESIGN by Peter RN Childs
+  - SHIGLEY'S MECHANICAL ENGINEERING DESIGN by Joseph Edward Shigley et. al
+  - ENGINEERING DESIGN METHODS by Nigel Cross
+  - ENGINEERING DESIGN: THE CONCEPTUAL STAGE by MJ French
+- The volume by Nigel Cross was selected to be used as reference moving forward as it is the most relevant, easy to understand, and has good worked examples. The methods described are also familiar from 2nd year design, so it is likely the same book the lecturer referenced.
+- The process of designing criteria for evaluating the technologies will be:
+  - product design specification (fig 40, page 83)
+  - 'house of quality'/interaction matrix, optional (fig 44 page 99, fig 45 page 100, fig 48 page 103)
+  - morph chart (fig 50, 51 page 111)
+  - initial concepts from morph chart
+  - weighted objectives to evaluate initial concepts
+  - choose or design final concept, and sketch
 
 
 
