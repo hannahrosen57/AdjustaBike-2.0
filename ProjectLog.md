@@ -44,13 +44,14 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 Didn't get much done today. Struggling with stucture and knowing where to start. Hopefully the breakfast club and planning will help with that.
 
 ## Wednesday 5th February
+- [ ] Create a set of weighted criteria for choosing the base technology for the frame kit !!!
 - [x] Got in touch with Alex RE meeting, and he's already emailed Jerome
 - [x] Assigned new timescale to tasklist and uploaded here
 - [ ] Upload and type up backlog of meeting minutes, reports, etc, to GitHub
-- [ ] Create a set of weighted criteria for choosing the base technology for the frame kit !!!
 - [ ] Figure out a system for weekly planning and plan next week
 - [x] Update Project Log for yesterday
 - [ ] Update Project Log for today
+- [ ] Emails
 
 
 
