@@ -203,7 +203,7 @@ Captain's log: Phew! This log is finally up to date! That took so much longer th
 - [ ] Interaction matrix?
 - [ ] Morphological Chart
 - [ ] Initial Concepts
-- [ ] Weighted Objectives
+- [ ] Weighted Objectives / p-matrix
 - [ ] Final Concept
 - [ ] Criteria
 
