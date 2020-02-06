@@ -1,1 +1,2 @@
 # AdjustaBike-2.0
+This project is building on the Adjustabike, which was an adjustable DIY bicycle kit concept developed by a previous Final Year student, Jamie. The aim is to accomplish the same goal, but to make it as accessible to the lay person as possible by using mostly off-the-shelf parts and simple manufacturing methods, and to ensure that the kit is truly open-source by documenting it thoroughly.
