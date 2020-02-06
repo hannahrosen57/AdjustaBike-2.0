@@ -193,6 +193,23 @@ Didn't get much done today. Struggling with stucture and knowing where to start.
   - initial concepts from morph chart
   - weighted objectives to evaluate initial concepts
   - choose or design final concept, and sketch
+  
+## Thursday 6th February
+Captain's log: Phew! This log is finally up to date! That took so much longer than I expected! Now I'm behind on the design synthesis.
+
+- [x] Retroactively type up meeting minutes, etc. from before this project log was sterted
+- [x] Today's log entry
+- [ ] Product Specification
+- [ ] Interaction matrix?
+- [ ] Morphological Chart
+- [ ] Initial Concepts
+- [ ] Weighted Objectives
+- [ ] Final Concept
+- [ ] Criteria
+
+Maybe I'm trying to do too much in one day with all this conceptual design stuff. It's probably going to form a significant portion of the report after all. But I want to leave plenty of time for prototyping and developing things. Well, I'll see how I get on tomorrow and then update the timescale. I'm tempted to stay late and at least get the Spec done but it's already almost 1900 and I have a lot of Life Admin to do. Tomorrow, then. 
+
+Rosen out.
 
 
 
