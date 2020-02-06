@@ -1,6 +1,50 @@
 # Project Log
+This document is intended to be an ongoing record of the progress of the AdjustaBike 2.0 project. The project is building on the Adjustabike, which was an adjustable DIY bicycle kit concept developed by a previous Final Year student, Jamie. The aim is to accomplish the same goal, but to make it as accessible to the lay person as possible by using mostly off-the-shelf parts and simple manufacturing methods, and to ensure that the kit is truly open-source by documenting it thoroughly.
 
-This document is intended to be an ongoing record of the progress of the AdjustaBike 2.0 project.
+## Friday 1st November (retro)
+### Introductory Meeting Minutes
+- Review existing work and concepts
+- How to divide work between Alex and me?
+  - test & optimise / design & develop
+  - computational / experimental
+  - different joints?
+  - different directions entirely?
+- Parts to manufacture - drawings
+  - get in touch with Jamie?
+- Timescale? need to establish the broad strokes, especially of assesments
+- Literature Review (what to include)
+- Technicians (need to attend tech surgery)
+  - machining
+  - testing - introm machines?
+- To consider when designing and evaluating bike:
+  - Vibrations
+  - Maximum/typical load
+  - Mass/weight
+  - Ergonomics
+    - Riding position
+    - Knee clearance
+    - Transmitted forces
+  - Cost
+  - Ease of assembly
+
+To do before next meeting on Wednesday 6th:
+- [x] Read through Jamie's report thoroughly
+- [x] Have a good think about the best way to divide the work
+- [x] Hash out rough outline of deadlines
+- [x] Get an idea of what's involved in each handin
+- [x] Review examples of past PSPs
+
+## Tuesday 5th November (retro)
+- Reviewed the outline of the timeline and hand-ins given in the 'FYP Instructions' booklet
+- Read through and highlighted Jamie's report. It should be helpful for writing the PSP
+- Brainstormed:
+  - Directions the project could be taken, to help decide how to divide the work with Alex
+  - Thoughts/observations evoked by Jamie's report
+Will upload these brainstorms once I've typed them up.
+
+## Wednesday 6th November (retro)
+### Project Brief Meeting
+Alex and I had both taken the past few days to familiarise ourselves with the project. After reviewing our thoughts and findings, we agreed that Alex would take the existing designs and improve them to make them more manufacturable, and I would take the project in a different direction by attempting to make it as accessible to the lay person as possible, and focussing on the open source aspect. 
 
 ## Monday 3rd February
 ### Julian House Bike Workshop
