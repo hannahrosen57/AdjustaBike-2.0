@@ -37,17 +37,21 @@ To do before next meeting on Wednesday 6th:
 ## Tuesday 5th November (retro)
 - Reviewed the outline of the timeline and hand-ins given in the 'FYP Instructions' booklet
 - Read through and highlighted Jamie's report. It should be helpful for writing the PSP, especially the lit review
-- Brainstormed:
+- Brainstormed (see below):
   - Directions the project could be taken, to help decide how to divide the work with Alex
-  - Thoughts/observations evoked by Jamie's report
-Will upload these brainstorms once I've typed them up.
+  - Thoughts/observations after reading Jamie's report
+  
+![alt text](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/directions%20to%20explore.png?raw=true "directions to explore")
+
+![alt text](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/thoughts%20on%20Jamie's%20report.png?raw=true "thoughts on Jamie's Report")
+
 
 ## Wednesday 6th November (retro)
 ### Project Brief Meeting
 Alex and I had both taken the past few days to familiarise ourselves with the project. After reviewing our thoughts and findings, we agreed that Alex would take the existing designs and improve them to make them more manufacturable, and I would take the project in a different direction by attempting to make it as accessible to the lay person as possible, and focussing on the open source aspect. I worked with Jerome (who is my supervisor) to figure out what I'll be trying to do in a bit more detail. Jerome then summarised this in 'Project Brief' documents (one for each of Alex and myself) and gave us the chance to make any changes. We all seemed to be on the same page, because neither of us needed to edit the proposed briefs. I have uploaded it here. This will be very helpful when writing the work packages and aims of the PSP.
 
-# Wednesday 13th November
-## Third FYP Meeting
+## Wednesday 13th November (retro)
+### Third FYP Meeting
 This meeting was mostly spent discussing the logistics of open source hardware.
 
 ## Monday 3rd February
