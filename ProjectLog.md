@@ -215,4 +215,4 @@ Rosen out.
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
-##### end link
+##### {end link}
