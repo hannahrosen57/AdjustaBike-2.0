@@ -62,7 +62,7 @@ open source:
   - develop
   - distribute
 - you could almost say there are two products/outcomes, the bike kit and the documentation
-- use of GitHub for version control and documentation
+- use of GitHub for version control, documentation, and sharing
   - could use markdown directly for project log
   - or, could keep uploading new versions of a word document so it's easier to write the report
 - Design log?
@@ -72,6 +72,57 @@ open source:
   - research best practice
 - The developement and design decisions need to be documented as well as the final product
 - both raw and viewable CAD files should be uploaded to GitHub
+
+## Writing the Project Scoping and Planning Report (retro)
+The final PSP Report and the feedback for it will be uploaded here.
+### To Do List
+- Prep:
+  - [x] read assignment brief, especially mark scheme
+  - [x] create plan of action
+  - [x] read example PSPs
+- Scoping:
+  - [x] go over project briedf and meeting minutes
+  - [x] draft aims and objectives
+  - [x] draft Work Plan including deliverables and prototypes
+  - [x] draft introduction and background
+- Planning
+  - [x] lay out deliverable timescale
+  - [x] assess time needed for each project phase
+  - [x] draft overall timescale
+  - [x] carry out contingency planning i.e. in case Phase 1 fails, what will Phase 2 be?
+- Lit Review
+  - [x] decide what to cover
+  - [x] compile resources
+  - [x] read them!
+  - [x] draft lit review
+- Report
+  - [x] revise drafts
+  - [x] summary
+  - [x] references
+- Misc.
+  - [x] title page
+  - [x] check figure references all match up correctly
+  - [x] fill out the risk assessment
+  - [x] hand-ins (paper and moodle)
+
+### Aims and Objectives (draft)
+#### Overarching Aim
+Design a kit with which a lay person can easily and non-destrucively assemble a bicycle with a geometry of their choosing, ensuring that the ratio of off-the-shelf parts to custom parts is as high as possible in the interest of accessibility to the lay person.
+#### Objectives
+1) Investigate available off-the-shelf technologies and recommend which would be the most suitable to include in the kit as the tubes, joints, and interfaces of the bicycle frame. based on a set of criteria.
+1) Develop a simplified modelling mechanism to test combinations of the recommended components and use it to:
+   1) Demonstrate the feasability of creating different geometries
+   1) Make a recommendation on which lengths, angles, and quantities to include in the kit
+1) Source the components and build a physical prototype of one or more of the geometries
+1) Document the kit thoroughly so that any lay person is able to replicate the design
+
+### Literature Review
+- Jamie's Report
+- Different solutions to similar problems
+- Geometries, components, and Engineering of bicycles
+- Consumer behaviour regarding customisable products
+- Open source philosophy and licensing
+- Assembly instructions best practice
 
 ## Monday 3rd February
 ### Julian House Bike Workshop
