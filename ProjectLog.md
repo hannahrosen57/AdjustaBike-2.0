@@ -1,6 +1,8 @@
 # Project Log
 This document is intended to be an ongoing record of the progress of the AdjustaBike 2.0 project. The project is building on the Adjustabike, which was an adjustable DIY bicycle kit concept developed by a previous Final Year student, Jamie. The aim is to accomplish the same goal, but to make it as accessible to the lay person as possible by using mostly off-the-shelf parts and simple manufacturing methods, and to ensure that the kit is truly open-source by documenting it thoroughly.
 
+[jump to end](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#end-link)
+
 ## Friday 1st November (retro)
 ### Introductory Meeting Minutes
 - Review existing work and concepts
@@ -194,3 +196,6 @@ Didn't get much done today. Struggling with stucture and knowing where to start.
 
 
 
+
+
+##### end link
