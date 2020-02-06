@@ -54,6 +54,25 @@ Alex and I had both taken the past few days to familiarise ourselves with the pr
 ### Third FYP Meeting
 This meeting was mostly spent discussing the logistics of open source hardware.
 
+open source:
+- allow future FYP students (and anyone else) to understand and continue work
+- official definition is that there should be sufficient documentation and access to editable files that anyone should be able to:
+  - make
+  - study
+  - develop
+  - distribute
+- you could almost say there are two products/outcomes, the bike kit and the documentation
+- use of GitHub for version control and documentation
+  - could use markdown directly for project log
+  - or, could keep uploading new versions of a word document so it's easier to write the report
+- Design log?
+- Instruction booklet?
+  - photographic documentation of assembly process?
+  - technical drawings?
+  - research best practice
+- The developement and design decisions need to be documented as well as the final product
+- both raw and viewable CAD files should be uploaded to GitHub
+
 ## Monday 3rd February
 ### Julian House Bike Workshop
 Julian House Bike Workshop is a charitable enterprise in Bath which accepts donated bikes, fixes them up, and sells them, using the profits to help the homeless community. They also provide training and employment for homeless people, and run workshops where members of the public can learn how to maintain their own bikes.
