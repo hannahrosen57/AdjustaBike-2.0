@@ -50,7 +50,7 @@ To do before next meeting on Wednesday 6th:
 
 ## Wednesday 6th November (retro)
 ### Project Brief Meeting
-Alex and I had both taken the past few days to familiarise ourselves with the project. After reviewing our thoughts and findings, we agreed that Alex would take the existing designs and improve them to make them more manufacturable, and I would take the project in a different direction by attempting to make it as accessible to the lay person as possible, and focussing on the open source aspect. I worked with Jerome (who is my supervisor) to figure out what I'll be trying to do in a bit more detail. Jerome then summarised this in 'Project Brief' documents (one for each of Alex and myself) and gave us the chance to make any changes. We all seemed to be on the same page, because neither of us needed to edit the proposed briefs. I have uploaded it here. This will be very helpful when writing the work packages and aims of the PSP.
+Alex and I had both taken the past few days to familiarise ourselves with the project. After reviewing our thoughts and findings, we agreed that Alex would take the existing designs and improve them to make them more manufacturable, and I would take the project in a different direction by attempting to make it as accessible to the lay person as possible, and focussing on the open source aspect. I worked with Jeremy (who is my supervisor) to figure out what I'll be trying to do in a bit more detail. Jeremy then summarised this in 'Project Brief' documents (one for each of Alex and myself) and gave us the chance to make any changes. We all seemed to be on the same page, because neither of us needed to edit the proposed briefs. I have uploaded it here. This will be very helpful when writing the work packages and aims of the PSP.
 
 ## Wednesday 13th November (retro)
 ### Third FYP Meeting
@@ -153,7 +153,7 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 ![alt text](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/image003_c20pa6.jpg "bike frame anatomy")
 
 ### Other
-- [ ] email Jerome and Alex to setup meeting
+- [ ] email Jeremy and Alex to setup meeting
 - [ ] message people about setting up regular breakfast meetups for structure and accountability
 - [x] start project log
 - [x] go talk to Julian House
@@ -161,7 +161,7 @@ Before I start building a wacky DIY bike, I'll need to know where I'm starting f
 
 ## Tuesday 4th February
 - [x] Set up Breakfast Club
-- [ ] Email Alex and Jerome to set up meeting
+- [ ] Email Alex and Jeremy to set up meeting
 - [ ] Assign new timescale
 - [ ] Update Project Log
 
@@ -169,7 +169,7 @@ Didn't get much done today. Struggling with stucture and knowing where to start.
 
 ## Wednesday 5th February
 - [x] Research mechanical design synthesis and plan how to develop criteria
-- [x] Got in touch with Alex RE meeting, and he's already emailed Jerome
+- [x] Got in touch with Alex RE meeting, and he's already emailed Jeremy
 - [x] Assigned new timescale to tasklist and uploaded here
 - [ ] Upload and type up backlog of meeting minutes, reports, etc, to GitHub (started)
 - [x] Figure out a system for weekly planning and plan next week
