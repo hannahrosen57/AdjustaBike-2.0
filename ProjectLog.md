@@ -214,8 +214,8 @@ Rosen out.
 ## Friday 7th February
 
 - [ ] Product Specification
-  - [ ] Brush up with the textbook
-  - [ ] Brainstorm requirements
+  - [x] Brush up with the textbook
+  - [x] Brainstorm requirements
   - [ ] Formalise into a matrix with weights
 - [ ] Interaction matrix?
 - [ ] Morphological Chart
@@ -223,6 +223,8 @@ Rosen out.
 - [ ] Weighted Objectives / Pugh Matrix
 - [ ] Final Concept
 - [ ] Criteria
+
+I've decided it's worth taking the extra time to do this thoroughly. It's all based on legitimate engineering principles which I can write up in my report, and it'll help avoid walking into the trap of just assuming the first idea is the best idea. Who knows, I might find some new ideas. And if I don't at least the first idea will be fleshed out and justified. 
 
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
