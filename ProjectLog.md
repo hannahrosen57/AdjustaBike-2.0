@@ -211,6 +211,18 @@ Maybe I'm trying to do too much in one day with all this conceptual design stuff
 
 Rosen out.
 
+## Friday 7th February
+
+- [ ] Product Specification
+  - [ ] Brush up with the textbook
+  - [ ] Brainstorm requirements
+  - [ ] Formalise into a matrix with weights
+- [ ] Interaction matrix?
+- [ ] Morphological Chart
+- [ ] Initial Concepts
+- [ ] Weighted Objectives / Pugh Matrix
+- [ ] Final Concept
+- [ ] Criteria
 
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
