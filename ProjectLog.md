@@ -280,6 +280,8 @@ The bike requirements were fed into the kit requirements.
 - [ ] If time - morphological chart?
 - [ ] Update today's log
 
+note: this article on [Geometry Charts](https://www.bikeexchange.co.uk/blog/bike-geometry-charts) is coming in handy when trying to quantify the requirements for the bike. I'm aiming for a sort of hybrid commuter style geometry, nothing too aggressive or road-bikey.
+
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
 ##### {end link}
