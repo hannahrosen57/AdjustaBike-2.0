@@ -215,17 +215,61 @@ Rosen out.
 
 - [ ] Product Specification
   - [x] Brush up with the textbook
+  - [x] Consider Levels of generality
+  - [x] Determine level of generality at which to operate
   - [x] Brainstorm requirements
-  - [ ] Formalise into a matrix with weights
-- [ ] Interaction matrix?
-- [ ] Morphological Chart
-- [ ] Initial Concepts
-- [ ] Weighted Objectives / Pugh Matrix
-- [ ] Final Concept
-- [ ] Criteria
+  - [ ] Quantify requirements
+  - [ ] Lay out in a table with demand/wish weights
+- [x] Update log
+
+The challenge with creating a product specification is that it must be specific enough to sufficiently restrict and evaluate the design, but general enough that it does not exclude potential solutions. For example, both the [Wishbone Design 3-in-1 Balance Bike](https://www.kidly.co.uk/products/wishbone-design-studio/3-in-1-balance-bike/8080?gclid=EAIaIQobChMI5Ymsn9rG5wIVTbDtCh3XIwTxEAQYASABEgJMIPD_BwE) (top row below) and the [Infento Explorer Kit](https://www.infentorides.com/product/explorer-kit/) (bottom row below) could arguably fullfill the same brief and product specification, just in very different ways. The product specification would not be able to specify material, fixing mechanisms, or even the general structure, as the balance bike uses curved wooden panels bolted together, while the infento kit uses aluminium 'rod' elements connected with moulded plastic joints.
+
+[BalBike1]: https://kidlycatalogue.blob.core.windows.net/products/8080/product-images/neutral-wooden-1/wishbone-design-studio-3-in-1-balance-bike-neutral-wooden-1920x760_03.jpg "Balance Bike 1"
+
+[BalBike2]: https://kidlycatalogue.blob.core.windows.net/products/8080/product-images/neutral-wooden-1/wishbone-design-studio-3-in-1-balance-bike-neutral-wooden-1920x760_04.jpg "Balance Bike 2"
+
+[BalBike3]: https://kidlycatalogue.blob.core.windows.net/products/8080/product-images/neutral-wooden-1/wishbone-design-studio-3-in-1-balance-bike-neutral-wooden-1920x760_02.jpg "Balance Bike 3"
+
+[Infento1]: https://www.infentorides.com/wp-content/uploads/2018/10/InfentoBALANCER-G2-PrspFront-690x460.png "Infento 1"
+
+[Infento2]: https://www.infentorides.com/wp-content/uploads/2018/10/infentoSTREAMER-PrspFront-690x460.png "Infento 2"
+
+[Infento3]: https://www.infentorides.com/wp-content/uploads/2018/10/infentoRIDER-G2-PrspFront-690x460.png "Infento 3"
+
+![][BalBike1]   |![][BalBike2]   |![][BalBike3]
+:--------------:|:--------------:|:---------------:
+![][Infento1]   |![][Infento2]   |![][Infento3]
 
 I've decided it's worth taking the extra time to do this thoroughly. It's all based on legitimate engineering principles which I can write up in my report, and it'll help avoid walking into the trap of just assuming the first idea is the best idea. Who knows, I might find some new ways of doing things. And if I don't at least the first idea will be fleshed out and justified. 
 
+It should be noted that, because of the nature of the product, it can be difficult to separate the requirements for the kit itself from the requirements of the bike assembly and other assemblies. To address this, a set of requirements will be determined for the bike assembly, and these will be 'translated' into kit requirements. The geometries of the other assemblies are not yet known, so there will be a kit requirements that at least two geometries must be possible. Unless otherwise specified, mentions of requirements, specifications, and the like are referring to those of the kit and not the assemblies thereof. 
+
+The levels of generality were considered, and are summarised in the table below:
+
+level of generality    | examples
+-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+product alternatives   | **bicycle/tricycle kit**; skateboard/rollerskate kit; welded bicyle frame with bolt-on cargo carrier, child seat, tandem attachment, sidecar, trailer, and training wheels
+pruduct types          | to be manufactured and sold by distributor; **to be built by the consumer with simple manufacturing and readily available parts**; consisting of panels; **consisting of linear elements and connectors**
+product features       | materials; type of linear elements; type of connectors, lengths, angles, and quantities to include in kit; type of wheels, brakes, drive, etc.; method of attaching wheels, brakes, drive, etc.
+
+We already know which product alternative and product type we want (shown in bold). The 'linear elements' structure was selected because it would give a greater degree of flexibility for the wide range of geometries that we are aiming for, and allow for greater creativity while the user is assembling the kit, more akin to lego or meccano than flatpack furniture. Hence, the design synthesis will take place at the 'product features' level.
+
+## Monday 10th February
+- [ ] Update Friday's log in more detail
+  - [x] type up decisions and findings
+  - [ ] type up mindmaps with mindgenius
+  - [ ] upload and insert into log
+- [ ] Emails
+- [ ] Product Specification
+  - [ ] Quantify requirements
+    - [ ] bike
+    - [ ] kit
+  - [ ] Lay out in a table with demand/wish weights
+    - [ ] bike
+    - [ ] kit
+- [ ] Collate a list of technologies already identified as candidates
+- [ ] If time - morphological chart?
+- [ ] Update today's log
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
