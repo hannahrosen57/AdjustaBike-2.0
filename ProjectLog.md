@@ -276,9 +276,9 @@ The bike requirements were fed into the kit requirements.
   - [ ] Lay out in a table with demand/wish weights
     - [x] bike
     - [ ] kit
-- [ ] Collate a list of technologies already identified as candidates
+- [x] Collate a list of technologies already identified as candidates
 - [ ] If time - morphological chart?
-- [ ] Update today's log
+- [x] Update today's log
 
 note: this article on [Geometry Charts](https://www.bikeexchange.co.uk/blog/bike-geometry-charts) is coming in handy when trying to quantify the requirements for the bike. I'm aiming for a sort of hybrid commuter style geometry, nothing too aggressive.
 
@@ -297,6 +297,8 @@ https://www.cyclingweekly.com/group-tests/road-bike-geometry-explained-407599
 the image and table below are taken from Jamie's report:
 ![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/bike%20geometry.PNG?raw=true)
 ![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/bike%20geometry%20values.PNG?raw=true)
+
+A list of some possible candidates was collated and uploaded [here](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/component%20candidates.xlsx). The bike requirements were organised into a table and uploaded [here](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Product%20Specs.xlsx). 
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
