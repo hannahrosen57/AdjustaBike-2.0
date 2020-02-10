@@ -254,12 +254,21 @@ product features       | materials; type of linear elements; type of connectors,
 
 We already know which product alternative and product type we want (shown in bold). The 'linear elements' structure was selected because it would give a greater degree of flexibility for the wide range of geometries that we are aiming for, and allow for greater creativity while the user is assembling the kit, more akin to lego or meccano than flatpack furniture. Hence, the design synthesis will take place at the 'product features' level.
 
+The requirements for the bike and then the kit were brainstormed. The resulting mindmaps are shown below:
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/bike%20requirements.png?raw=true)
+
+
+The bike requirements were fed into the kit requirements.
+
+
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/kit%20requirements.png?raw=true)
+
 ## Monday 10th February
 - [ ] Update Friday's log in more detail
   - [x] type up decisions and findings
-  - [ ] type up mindmaps with mindgenius
-  - [ ] upload and insert into log
-- [ ] Emails
+  - [x] type up mindmaps with mindgenius
+  - [x] upload and insert into log
+- [x] Emails
 - [ ] Product Specification
   - [ ] Quantify requirements
     - [ ] bike
