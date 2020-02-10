@@ -280,7 +280,23 @@ The bike requirements were fed into the kit requirements.
 - [ ] If time - morphological chart?
 - [ ] Update today's log
 
-note: this article on [Geometry Charts](https://www.bikeexchange.co.uk/blog/bike-geometry-charts) is coming in handy when trying to quantify the requirements for the bike. I'm aiming for a sort of hybrid commuter style geometry, nothing too aggressive or road-bikey.
+note: this article on [Geometry Charts](https://www.bikeexchange.co.uk/blog/bike-geometry-charts) is coming in handy when trying to quantify the requirements for the bike. I'm aiming for a sort of hybrid commuter style geometry, nothing too aggressive.
+
+other links:
+
+https://bike.bikegremlin.com/832/bicycle-frame-geometry/
+
+https://www.boardmanbikes.com/gb_en/products/2256-slr-9.2.html
+
+https://www.boardmanbikes.com/gb_en/products/2171-mtx-8.8.html
+
+https://www.boardmanbikes.com/gb_en/products/2232-adv-9.0.html
+
+https://www.cyclingweekly.com/group-tests/road-bike-geometry-explained-407599
+
+the image and table below are taken from Jamie's report:
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/bike%20geometry.PNG?raw=true)
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/bike%20geometry%20values.PNG?raw=true)
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
