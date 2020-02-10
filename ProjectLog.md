@@ -268,7 +268,7 @@ The bike requirements were fed into the kit requirements.
   - [x] type up decisions and findings
   - [x] type up mindmaps with mindgenius
   - [x] upload and insert into log
-- [x] Emails
+- [x] Email RE meeting tomorrow
 - [ ] Product Specification
   - [ ] Quantify requirements
     - [ ] bike
