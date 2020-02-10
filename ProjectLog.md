@@ -274,7 +274,7 @@ The bike requirements were fed into the kit requirements.
     - [ ] bike
     - [ ] kit
   - [ ] Lay out in a table with demand/wish weights
-    - [ ] bike
+    - [x] bike
     - [ ] kit
 - [ ] Collate a list of technologies already identified as candidates
 - [ ] If time - morphological chart?
