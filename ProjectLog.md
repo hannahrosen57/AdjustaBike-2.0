@@ -264,7 +264,7 @@ The bike requirements were fed into the kit requirements.
 ![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/kit%20requirements.png?raw=true)
 
 ## Monday 10th February
-- [ ] Update Friday's log in more detail
+- [x] Update Friday's log in more detail
   - [x] type up decisions and findings
   - [x] type up mindmaps with mindgenius
   - [x] upload and insert into log
