@@ -306,8 +306,8 @@ A list of some possible candidates was collated and uploaded [here](https://gith
   - [ ] Quantify requirements
     - [ ] bike
     - [ ] kit
-  - [ ] Lay out in a table with demand/wish weights
-    - [ ] kit
+  - [X] Lay out in a table with demand/wish weights
+    - [X] kit
 - [ ] If time - morphological chart?
 - [ ] Supervisor meeting
 - [ ] Update log 
