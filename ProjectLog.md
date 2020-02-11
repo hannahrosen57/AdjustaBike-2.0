@@ -300,6 +300,19 @@ the image and table below are taken from Jamie's report:
 
 A list of some possible candidates was collated and uploaded [here](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/component%20candidates.xlsx). The bike requirements were organised into a table and uploaded [here](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Product%20Specs.xlsx). 
 
+## Tuesday 11th February
+
+- [ ] Product Specification
+  - [ ] Quantify requirements
+    - [ ] bike
+    - [ ] kit
+  - [ ] Lay out in a table with demand/wish weights
+    - [ ] kit
+- [ ] If time - morphological chart?
+- [ ] Supervisor meeting
+- [ ] Update log 
+
+
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
 ##### {end link}
