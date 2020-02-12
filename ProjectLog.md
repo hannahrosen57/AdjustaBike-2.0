@@ -385,7 +385,7 @@ We need to translate the bike requirements into the kit requirements. This means
 Okay, that should be all the force calculations we need. Moving on.
 
 
-- [ ] ~~Do some maket research to get an idea of cost. Note we will probably not sell this, but cost is still a factor in DIY. We have an advantage in that we don't need a profit margin and don't really have any overheads, but a disadvantage in that we can't buy in bulk. Also, should we assign a cost to manufacturing and assembly time?~~
+- [ ] Do some maket research to get an idea of cost. Note we will probably not sell this, but cost is still a factor in DIY. We have an advantage in that we don't need a profit margin and don't really have any overheads, but a disadvantage in that we can't buy in bulk. Also, should we assign a cost to manufacturing and assembly time?
   - [ ] ~~Compile a list of competitors or similar products (could be more than one product from each company)~~
     ~~- toy kits ie infento~~
     ~~- cargo bike kits ie XYZ~~
