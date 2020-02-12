@@ -385,18 +385,18 @@ We need to translate the bike requirements into the kit requirements. This means
 Okay, that should be all the force calculations we need. Moving on.
 
 
-- [ ] ~~Do some maket research to get an idea of cost. Note we will probably not sell this, but cost is still a factor in DIY. We have an advantage in that we don't need a profit margin and don't really have any overheads, but a disadvantage in that we can't buy in bulk. Also, should we assign a cost to manufacturing and assembly time?
-  - [ ] ~~Compile a list of competitors or similar products (could be more than one product from each company)
-    ~~- toy kits ie infento
-    ~~- cargo bike kits ie XYZ
-    ~~- purpose-built cargo bikes, adult trikes, child-carrying bikes, tandem attachments, etc.
-  - [ ] ~~Research and record the prices of each of them
-  - [ ] ~~Come up with some desirable attributes like 'build quality' and 'flexibility' and give them preliminary weights based on how much the consumer values them
-  - [ ] ~~Rate each of the competing products in each of these attributes
-  - [ ] ~~Compute an overall 'value index' for each competing product using the attribute scores and weights
-  - [ ] ~~Plot the cost against the value of each of the competing products on a scatter chart and show the line of best fit
-  - [ ] ~~Adjust the weightings (and add more attributes if there are any missing) until the scatter graph shows a good correlation. Sometimes, the line of best fit is linear on a log plot when all the weights are adjusted correctly. Sometimes.
-  - [ ] ~~Score our product on each of the attributes and calculate its value index. Use the line of best fit on the value-cost graph to find the target price for that value index.
+- [ ] ~~Do some maket research to get an idea of cost. Note we will probably not sell this, but cost is still a factor in DIY. We have an advantage in that we don't need a profit margin and don't really have any overheads, but a disadvantage in that we can't buy in bulk. Also, should we assign a cost to manufacturing and assembly time?~~
+  - [ ] ~~Compile a list of competitors or similar products (could be more than one product from each company)~~
+    ~~- toy kits ie infento~~
+    ~~- cargo bike kits ie XYZ~~
+    ~~- purpose-built cargo bikes, adult trikes, child-carrying bikes, tandem attachments, etc.~~
+  - [ ] ~~Research and record the prices of each of them~~
+  - [ ] ~~Come up with some desirable attributes like 'build quality' and 'flexibility' and give them preliminary weights based on how much the consumer values them~~
+  - [ ] ~~Rate each of the competing products in each of these attributes~~
+  - [ ] ~~Compute an overall 'value index' for each competing product using the attribute scores and weights~~
+  - [ ] ~~Plot the cost against the value of each of the competing products on a scatter chart and show the line of best fit~~
+  - [ ] ~~Adjust the weightings (and add more attributes if there are any missing) until the scatter graph shows a good correlation. Sometimes, the line of best fit is linear on a log plot when all the weights are adjusted correctly. Sometimes.~~
+  - [ ] ~~Score our product on each of the attributes and calculate its value index. Use the line of best fit on the value-cost graph to find the target price for that value index.~~
 
 Actually, scratch all of that. Just find a couple similar products on the market think about how much you'd be willing to pay for it, pick a fairly large fudge factor, and get a ballpark absolute maximum and target price. When you know what the design looks like in more detail, come back to the procedure layed out above and use it to evaluate and justify. I'll leave it here to refer to later. 
 
