@@ -309,9 +309,107 @@ A list of some possible candidates was collated and uploaded [here](https://gith
   - [X] Lay out in a table with demand/wish weights
     - [X] kit
 - [ ] If time - morphological chart?
-- [ ] Supervisor meeting
-- [ ] Update log 
+- [x] Supervisor meeting
+- [x] Update log 
 
+I had a Doctor's appointment and some important errands today so I didn't get as much done as usual.
+
+## Wednesday 12th February
+
+- [ ] Product Specification
+  - [ ] Quantify requirements
+    - [ ] bike
+    - [ ] kit
+  - [ ] Add RS, bamboo, timber, 3D printing, and anything else I think of to component candidates spreadsheet
+  - [ ] Decide on morphological chart categories for bike, ie. wheels, brakes, drive, steering, interface/attachment/bearing mechanisms, links, joints, geometry, adjustment/adaptaion mechanism(s)
+    
+### Call from The Tube and Clamp Company
+11.46am, I just got off the phone with the tube and clamp company. I had to give them my contact details to download the brochure, and I was in the middle of typing up the mess below (quantifying product spec) when they called me. I was able to ask them some questions which was helpful because they don't have any prices in their brochure and it wasn't clear if it was possible to order small quantities or if it was exclusively geared towards big industrial applications. I'll type up the key points below. This is sounding pretty feasible, all in all. 
+
+It sounds like 4m of aluminium profile would be roughly £20 and joints (which consist of two clamps bolted together) would be about £1.50 each. The tubes come in 4m lengths and they can cut them to size for 50p/cut. They have a big warehouse in France where they ship bulk orders from, but since it's a small scale project they would probably ship it from their stock in the UK. They have a courier type deal set up for the 4m tubes, but it's easier and cheaper if they're cut to length first. The joints are shipped seperately in a normal box. Lead time from knowing what parts I need until they arrive here would be about 5 to 7 days. I forgot to ask about shipping costs, maybe I'll email him to ask.
+
+He said the company isn't usually too keen on giving out their CAD files, despite being asked about that a lot. I said I totally understood the need to protect IP and that I could probably mock up some simplified versions to figure out which parts I need. However, he seemed to be pretty keen for me to send him a sketch or simple CAD drawing of a concept, with any other important info like the forces involved, and they could put together a SolidWorks assembly from their part files and send me the Bill of Materials and presumably assembly drawings. This service would be free of charge. This would be useful because they know their product best and can find a good combination of components, weight optimised, cost optimised, taking account of loads it needs to withstand, etc. 
+
+#### We now interrupt your regularly scheduled programming for a brief descent into madness.
+Two concerns: a) is that cheating? and b) the same parts need to be used to build multiple assemblies, and unlike timber or scaffolding tubes, it doesn't make sense to just chop a bit off the end or buy a new tube when you need to build something new with different length tubes. Unless I just buy extra as spare? So, I would likely need to iterate geometry/assembly designs until I'm happy with at least a couple, trying to make sure they share as many parts as possible, and then send them two or three different concepts. Or, get them on board with the kit concept early on and use their expertise in the decision process, with the risk that I might not choose to take their product forward as the final concept. Again, is that cheating? The guy I spoke to said he'd email me so I can contact him when I've nailed down my concept a bit more, and I also asked him to type up a brief summary of everything we'd discussed. I thought I'd also type this up before I forget anything. 
+
+Also, a major design consideration is whether joints allow adjustable length without cutting the tubes, and if that makes the transverse bulky if they need to be side by side rather than inline. Can we use angular adjustment to adjust the length by 'folding' links in the middle? Or telescope? Or design the geometries so they mostly use the same lengths and adjust with a different mechanism? Is it possible to predict that different lengths will not be needed for geometries that have not been designed yet? Can enough flexibility be possible just by working around set lengths? It works for lego and meccano, if you think about it they're not very adjustable, they just have discrete sizes of building blocks which can be combined. But they're not dealing with trigonometry. But, the bike frame doesn't necessarily need to look like the standard 'triangle' shape. It could be like a brompton bike, relying on cantilevers. That would make getting the right lengths easier, but would the bolt-together joints be strong enough for a cantilever? Will the extra bending strength necessry in the links make it unneccesarily heavy? Will relying on discrete building blocks mean that a large quantity of components are needed, many of which aren't used at a given time? That would defeat the purpose of trying to reduce cost and storage space. It might be possible to adjust the 'discrete' lengths to match your height and only order those exact 'building blocks'. But then there's the original problem of needing different exact lengths when you decide to build a tricycle. And then is it truly a flexible kit? Or just a DIY project? If you have to order new parts for each different geometry I don't think it fulfills the project brief. 
+
+Ahh these are all things which I'll try to decide with my morphological chart after I sort the project spec, but they're all interconnected and it's hard to separate them because I feel like the choice of technology/product/component will influence which features would work best, but the required features also influennce which technology would work best. Plus, maybe a combination of different technologies would work best! That adds tonnes of different variables! Not to mention all the different combinations of wheels, steering, etc, and their attachment mechanisms! How do I solve this when it's so motherforking recursive and complex? 
+
+![](https://i.pinimg.com/originals/fb/56/ce/fb56ce7eada9734afd049392e4c92264.jpg)
+
+Okay. It's gonna be okay. We have a system to work through this mess. It's not perfect, and I might have to iterate a few times, and maybe I'll miss things and I won't find the best solution. But maybe there isn's a best solution. But we'll probably end up with a good solution. Maybe there will be another way I could have done it, but that's pretty much always the case. I'm on the right track, I'm trying to make this messy process a bit more methodical. I just have to keep going and cross each bridge when I come to it. And hey, maybe certain design decisions don't need to be completely justified, because exploring every single possible option would be impossible. It's more important that I get something that works. Just start with something. Whoever's working on this next can improve on it. So use the tables and matrices and charts as far as is helpful, and justify the foundation and the broad strokes and use it to find options. And then just - give it a go. Use intuition about how best to attach the wheels or whatever. Make it work, and if it doesn't work, come back to all the other options you left on the drawing board. 
+
+Maybe it won't be best, ideal solution. But it'll be something. Probably a pretty good something. Who knows, it might actually work. We can improve it later, or someone else can. That's not even cheating, that's what the design process is supposed to be. It's iterative. That's half the point of making this open source, so someone can look at this and see what happens if you try it a different way. It's not like I'm gonna make design decisions completely arbitrarily, I'll have some justification. Even if it's just time constraints - sometimes you have three equally good options and you just have to pick one and try it. I mean think about how many variations on a theme there are on the market right now. There's more than one way to skin a bicycle. Okay. It's gonna be okay. You're thinking far too much about this, get a freaking grip.
+
+**actual useful thought:** I was going to go through the whole design synthesis process and then, once I had the final concept, try and source components to build it. This is the usual way of doing things with a normal design project. But, with this one, the design is really built around and influenced by the components that I'll be using. So, I think it makes more sense to (after finishing the product specs) research the possible technology candidates, in the broad strokes since there are so many different product lines within each company, write some notes on them, including some of the more tangible, simple requirements like weight per metre, and then base the morphologocal chart on these different technologies. Then I can filter out the duds and build and evaluate initial concepts around the components which are available (ie. 'steel scaffolding tubes to fit interclamp' and 'aluminium graphit tubes from the tube and clamp company' instead of just 'tubes' as options in the 'links' category), and combine them if beneficial, possible, and worthwhile. I can iterate if I need to by redesigning the final concept and reeveluating it until I'm happy. But at least then I can use the things I already know about the technologies/components to inform the design decisions at the concept stage. Yeah, I'm a lot happier with that process. It'll involve a bit of digging around and emailing people, since cost and info etc. isn't always readily available, but I think it'll work. See? good talk. Not a complete waste of time.
+
+### Quantifying Product Spec Requirements
+I'm feeling a bit intimidated and overwhelmed by the task of trying to quantify the requirements for the specification. I think it's because it involves a lot of interdependent steps, fact-finding, assumptions, decisions, and calculations, and because there isn't necessarily a 'right answer' or a way to check if I've done it right. And because I feel like this should be a simple task and I should have finished it already. But, to be fair, this is probably going to involve some back-of-the envelope FEA and writing up a long-winded decision process involving calculations, both of which take time, and this is the foundation for everything that I'll do later.  So, step 1, accept that this is going to take time and that's okay. Step 2, break it down. Acknowledge that a lot of assumptions will need to be made in order to calculate things, and that's okay as long as I use good margins and safety factors to find a reasonable 'worst case' design limit. It's okay if this needs to be adapted later when I have more information.
+
+Okay, let's try to break this down a bit:
+- [ ] Try to find some better data on 'stack' and 'reach' for hybrid geometries, as the only example I've found that lists these quantities is giving me very strange numbers - reach values around 600mm rather than the 380mm-ish which is predicted by Jamie's report and by comparing the proportions to road bikes. In theory I could just use the road bike data, but this is not going to be a lightweight or high performance machine, so it needs to have a fairly upright riding position to be accessible as a commuter type bike.
+- [ ] Use hybrid geometry data to fill in stack and reach requirement ranges
+- [ ] Use hybrid geometry data to define a preliminary geometry for force calculation purposes. As the size of bike chosen is fairly arbitrary, choose one which would fit me. Record and diagram this somehow.
+- [ ] Resaerch standards, test procedures, and safety factors for commercial bikes. To find out:
+  - [ ] Weight of 'test rider'
+  - [ ] Which tests does it need to pass? Static load, definitely. Shock load? Drop test? How high? How heavy? Resonant vibrations? (Probably not, at least not now, as that would require actual FEA on a computer and that's a but too in depth at this stage, but still should be noted for later.) Fatigue strength? How many cycles? 10,000? Should I model it with all the force on the bottom bracket or the seat? Both at once? Both, one at a time? Assuming that the 'test weight' is much higher than an average rider's weight, what safety factor should I use for the test weight?
+  - [ ] Use the findings to fill in the relevant requirements for the bike spec (add safety factor requirement? adapt to reflect real life testing standards? Don't forget fatigue strength requirement).
+  
+We need to translate the bike requirements into the kit requirements. This means that we need to analyse a preliminary geometry to find the forces in the links and joints. 
+
+- [ ] Model the bike frame as a pin-jointed structure and calculate link and joint forces. Note, we do not know the cross-sectional area or the material of the links yet, so do not try to calculate stress. We just need the forces.
+  - [ ] Simplify the geometry into a 2D model. The main difference will be that the two chain stays and the two seat stays either side of the wheel will each need to be modeled by one link in the X-Y plane.
+  - [ ] Decide if the fork needs to be modelled. If yes, decide on the 2D geometry. Tricky to model with pin-jointed structure. Model as constraint at a head tube joint, and then model fork seperately as a beam? 
+  - [ ] On paper, diagram the bike frame as links and joints, and annotate with angles and lengths.
+  - [ ] Decide on how many tests are needed. For each one, define the magnitude and direction of each load, and where on the frame they act. This may involve calculating forces using equations of motion or other methods.
+  - [ ] Define the constraints.
+  - [ ] Check if the structure is statically determinate. If not, adjust constraints and/or loads as necessary until it is statically determinate. Note that some unrealistic constraints might be necessary in order to solve the structure, and this is okay because we just need a good estimate. Make note of them though.
+  - [ ] Draw the diagrams and solve for all the link forces for each test case, on paper.
+  - [ ] Check/verify them somehow. This could be with an online tool or simplified CAD (in which case, screenshot the diagrams for the report) or just by re-doing the calculation (which might actually be quicker).
+  - [ ] Decide on a suitable safety factor and calculate the design forces.
+  - [ ] Decide on the level of generality at which to specify loads. On the one hand, we don't know what the final geometry will look like (it could be significantly different), and so we should give a minimum load bearing requirement that every link and joint need to meet based on the 'worst case' and safety factors. On the other hand,  
+  - [ ] Use the results to fill in the 'link tension/compression' and 'joint gripping force'
+- [ ] Up till now we've been treating the frame as a pin jointed structure. While some of the joints might end up being pin-jointed, some will probably be fixed, as if they were welded (except not actually welded, because I doubt Mr. Joe Everyman wants to rent a welder). We need to estimate the maximum moment on the joints, and the bending moment on the links.
+  - [ ] Think about the realistic constraints that the frame will be under during testing and use. 
+  - [ ] Think about which joints should be fixed. This could be all of them or none of them , depending on the design, but probably somewhere in between. Could have a couple different options.
+  - [ ] Based on the pin-jointed analysis, constraints and loads, choice of fixed joints, geometry of structure, and intuition, estimate which joints will be subject to the highest torques and which links will be subjected to the highest bending moments for each test case. Do some simple calculations if necessary. Might need to make assumptions or simplify the model.
+  - [ ] For each test case, model and calculate an estimate of the worst case joint torque.
+  - [ ] For each test case, model and calculate an estimate of the worst case link bending moment.
+  - [ ] Determine a suitable safety factor and calculate design moments.
+  - [ ] Decide level of generality with which to specify the moment requirements. We don't want to overengineer smaller joints, but different geometries will have different forces and the joints have to work for all of them. Also consider that this is a ballpark 'envelope' for this specific requirement, and that there are seperate requirements for 'kit can be used to build a bike' and 'bike must support xxx kN' and ' optimise weight and cost', and that further testing will be carried out later to make sure the design is fit for purpose. We don't want to tie the design down too tightly at this stage. But, we do want to rule out things that definitely won't work so we don't have to redesign everything later.
+  - [ ] Use the results to fill in the 'joint torque' and 'link bending moment' requirements.
+- [ ] TYPE ALL THAT UP including diagrams and calculations!
+  
+Okay, that should be all the force calculations we need. Moving on.
+
+
+- [ ] ~~Do some maket research to get an idea of cost. Note we will probably not sell this, but cost is still a factor in DIY. We have an advantage in that we don't need a profit margin and don't really have any overheads, but a disadvantage in that we can't buy in bulk. Also, should we assign a cost to manufacturing and assembly time?
+  - [ ] ~~Compile a list of competitors or similar products (could be more than one product from each company)
+    ~~- toy kits ie infento
+    ~~- cargo bike kits ie XYZ
+    ~~- purpose-built cargo bikes, adult trikes, child-carrying bikes, tandem attachments, etc.
+  - [ ] ~~Research and record the prices of each of them
+  - [ ] ~~Come up with some desirable attributes like 'build quality' and 'flexibility' and give them preliminary weights based on how much the consumer values them
+  - [ ] ~~Rate each of the competing products in each of these attributes
+  - [ ] ~~Compute an overall 'value index' for each competing product using the attribute scores and weights
+  - [ ] ~~Plot the cost against the value of each of the competing products on a scatter chart and show the line of best fit
+  - [ ] ~~Adjust the weightings (and add more attributes if there are any missing) until the scatter graph shows a good correlation. Sometimes, the line of best fit is linear on a log plot when all the weights are adjusted correctly. Sometimes.
+  - [ ] ~~Score our product on each of the attributes and calculate its value index. Use the line of best fit on the value-cost graph to find the target price for that value index.
+
+Actually, scratch all of that. Just find a couple similar products on the market think about how much you'd be willing to pay for it, pick a fairly large fudge factor, and get a ballpark absolute maximum and target price. When you know what the design looks like in more detail, come back to the procedure layed out above and use it to evaluate and justify. I'll leave it here to refer to later. 
+
+- [ ] Fill in the ballpark cost requirements
+
+The rest of the requirements are less involved. Do some simple research and/or calculations. Don't get too bogged down in the details.
+- [ ] Stopping distance
+- [ ] Acceptable levels of torque due to friction in wheel, bottom bracket, and headtube bearings
+- [ ] Range of motion in steering
+- [ ] Max. manufacture time and assembly time
+- [ ] etc.
+
+I'm sure there will be other things but that's all I can think of right now. Argh, it's half two and I haven't eaten any lunch or done anything productive, I just wrote all that ^. Ahhhhhhhh
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
