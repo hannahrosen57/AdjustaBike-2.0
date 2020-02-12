@@ -322,6 +322,7 @@ I had a Doctor's appointment and some important errands today so I didn't get as
     - [ ] kit
   - [ ] Add RS, bamboo, timber, 3D printing, and anything else I think of to component candidates spreadsheet
   - [ ] Decide on morphological chart categories for bike, ie. wheels, brakes, drive, steering, interface/attachment/bearing mechanisms, links, joints, geometry, adjustment/adaptaion mechanism(s)
+  - [ ] Add Dutch upright bike to weight data
     
 ### Call from The Tube and Clamp Company
 11.46am, I just got off the phone with the tube and clamp company. I had to give them my contact details to download the brochure, and I was in the middle of typing up the mess below (quantifying product spec) when they called me. I was able to ask them some questions which was helpful because they don't have any prices in their brochure and it wasn't clear if it was possible to order small quantities or if it was exclusively geared towards big industrial applications. I'll type up the key points below. This is sounding pretty feasible, all in all. 
