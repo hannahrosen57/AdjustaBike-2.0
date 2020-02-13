@@ -321,7 +321,7 @@ I had a Doctor's appointment and some important errands today so I didn't get as
     - [ ] bike
     - [ ] kit
   - [ ] Add RS, bamboo, timber, 3D printing, and anything else I think of to component candidates spreadsheet
-  - [ ] Decide on morphological chart categories for bike, ie. wheels, brakes, drive, steering, interface/attachment/bearing mechanisms, links, joints, geometry, adjustment/adaptaion mechanism(s)
+  - [ ] Decide on morphological chart categories for bike, ie. wheels, brakes, drive, steering, interface/attachment/bearing mechanisms, links, joints, geometry, adjustment/adaptaion mechanism(s). Refer to Jamie's work, infento, other competitors, etc.
   - [ ] Add Dutch upright bike to weight data
     
 ### Call from The Tube and Clamp Company
