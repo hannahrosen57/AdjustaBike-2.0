@@ -352,7 +352,8 @@ I'm feeling a bit intimidated and overwhelmed by the task of trying to quantify 
 Okay, let's try to break this down a bit:
 - [x] Try to find some better data on 'stack' and 'reach' for hybrid geometries, as the only example I've found that lists these quantities is giving me very strange numbers - reach values around 600mm rather than the 380mm-ish which is predicted by Jamie's report and by comparing the proportions to road bikes. In theory I could just use the road bike data, but this is not going to be a lightweight or high performance machine, so it needs to have a fairly upright riding position to be accessible as a commuter type bike.
 - [x] Use hybrid geometry data to fill in stack and reach requirement ranges
-- [x] Use hybrid geometry data to define a preliminary geometry for force calculation purposes. As the size of bike chosen is fairly arbitrary, choose one which would fit me. Record and diagram this somehow.
+- [x] Use hybrid geometry data to define a preliminary geometry for force calculation purposes. As the size of bike chosen is fairly arbitrary, choose one which would fit me. 
+- [ ] Record and diagram this somehow. Simplify if necessary.
 - [ ] Resaerch standards, test procedures, and safety factors for commercial bikes. To find out:
   - [ ] Weight of 'test rider'
   - [ ] Which tests does it need to pass? Static load, definitely. Shock load? Drop test? How high? How heavy? Resonant vibrations? (Probably not, at least not now, as that would require actual FEA on a computer and that's a but too in depth at this stage, but still should be noted for later.) Fatigue strength? How many cycles? 10,000? Should I model it with all the force on the bottom bracket or the seat? Both at once? Both, one at a time? Assuming that the 'test weight' is much higher than an average rider's weight, what safety factor should I use for the test weight?
@@ -415,9 +416,49 @@ I'm sure there will be other things but that's all I can think of right now. Arg
 I found a couple other geometry charts and the numbers make more sense. Also, I went back to the first ones and I must have read the table wrong because it's actually perfectly normal. I recorded all the stack and reach data in the product spec spreadsheet. 6 bikes in total. The force calculations will use the geometry based on that of a size small cannondale quick 4. This was chosen because the style of geometry is similar to the one I am aiming for, and in theory this size would fit me. The relevant geometry chart data and diagrams is in the product spec spreadheet. The data was used to fill in requirements 4 through 8 of the bike requirements. The table above was used to give context by comparing with different types of bikes. I will upload the updated spec here.
 
 ## Thursday 13/02/2020
+
+- [x] Record and diagram preliminary geometry. Simplify if necessary.
+- [ ] Resaerch standards, test procedures, and safety factors for commercial bikes. To find out:
+  - [ ] Weight of 'test rider'
+  - [ ] Which tests does it need to pass? Static load, definitely. Shock load? Drop test? How high? How heavy? Resonant vibrations? (Probably not, at least not now, as that would require actual FEA on a computer and that's a but too in depth at this stage, but still should be noted for later.) Fatigue strength? How many cycles? 10,000? Should I model it with all the force on the bottom bracket or the seat? Both at once? Both, one at a time? Assuming that the 'test weight' is much higher than an average rider's weight, what safety factor should I use for the test weight?
+  - [ ] Use the findings to fill in the relevant requirements for the bike spec (add safety factor requirement? adapt to reflect real life testing standards? Don't forget fatigue strength requirement).
+
 I went looking for a CAD programme to draw up the preliminary geometry and happened across all the fikes from Jamie's Adjustabike project. He shared the folder with me on the Fusion 360 cloud thingy. [Here's a link](https://myhub.autodesk360.com/g/all_projects/active) to the webapp.
 
 I thought I'd just draw up a simple diamgram of the preliminary geometry, but this computer doesn't have Inventor. I tried the Fusion 360 webapp but it doesn't allow you to create drawings. After about an hour tearing my hair out wrestling with AutoCAD I think the best bet is to pack up and go find an engineering lab computer and use Inventor. It will probably save me time in the long run because I won't have to transfer the file from AutoCAD to Inventor, which can be complicated. Ugh this was supposed to be a 5 minute job.
+
+Okay I used the geometry chart from the cannondale website to draw up a sketch of the geometry. I then made a separate sketch with simplified geometry which I'll use for the initial pin-jointed-structure force calculations. I had to make a couple changes to make sure it was a structure rather than a linkage (ie not going to flop over), and to make it slightly easier to analyse. I'm okay with that because this is only supposed to be a ballpark figure. I don't even know what the final geometry will look like, it might be totally different. I was originally going to just do the calculations based on something really simple like a pin jointed equilateral triangle, just to get a general idea of the forces, but I figured I might as well use an actual bike geometry since I've got the info already. Probably made life more difficult than it needed to be, it took ages to get all the dimensions dialled in. The geo chart is just rounded up to the nearest mm, and without that extra precision nothing matches up. Oh well, on the up side I've got a bit of a better idea of the kind of precision (or adjustability) I'm going to need when building this thing. And it'll help when deciding which angles of joints I'll need, etc. I'll put some images in below.
+
+*table below shows geo chart from cannondale website for the quick 4. values shown are for the size small.*
+
+ref| dimension                    | value
+---|------------------------------|---------
+A  | Seat Tube Length	            | 40cm
+B  | Top Tube Length	            | 55.7cm
+D  | Head Tube Angle	            | 70.0°
+E1 | Seat Tube Angle Effective  	| 73.0°
+F  | Standover	                  | 69cm
+G  | Head Tube Length	            | 13.4cm
+H  | Wheelbase	                  | 105.3cm
+I  | Front Center	                | 62.7cm
+J  | Chain Stay Length	          | 43.5cm
+K  | Bottom Bracket Drop	        | 6.8cm
+L  | Estimated BB Height	        | 27.7cm
+M  | Fork Rake	                  | 5.5cm
+N  | Trail	                      | 6.7cm
+O  | Stack	                      | 55.4cm
+P  | Reach	                      | 38.8cm
+
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/cannondale%20geo%20chart.png?raw=true)
+*image above shows cannondale geo chart reference diagram*
+
+Click the images below to see them in more detail.
+
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/prelim%20bike%20geo.png?raw=true) | ![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/prelim%20bike%20geoN.png?raw=true)
+-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------
+*quick 4 geometry values*                                                                                  | *quick 4 geometry names*
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/prelim%20bike%20geo1.png?raw=true)| ![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/prelim%20bike%20geo2.png?raw=true)
+*quick 4 geometry and simplified geometry superimposed*                                                    | *simplified geometry annotated with dimensions*
 
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
