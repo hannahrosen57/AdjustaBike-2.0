@@ -509,8 +509,10 @@ okay so here's what I did:
   - [ ] If necessary, translate these new bike requirements into kit requirements
   - [ ] Quantify all the relevant bike requirements ie steering angle +/- 60 degrees
   - [ ] Quantify kit requirements as planned above
-- I read through and took notes on Part 1 and a good chunk of Par 2. this is going to take a while.
+- I read through and took notes on Part 1 and a good chunk of Par 2. this is going to take a while. A lot of detailed, relevant stuff.
 - For the drop test, I need a way to approximate the impact force. I could use conservation of momentum, but I don't know how long it'll take to decelerate and the time interval is important. [This article](https://www.wired.com/2014/07/how-do-you-estimate-impact-force/) makes a good point about using a distance instead of a time interval by using the work-energy principle. I can get the maximum distance interval (extension) from the test requirements in ISO 4210. Also, [here's](https://www.youtube.com/watch?v=32k96ahyB2g&feature=emb_title) a video of a wooden bike undergoing the drop test. Could use it to check if the time interval calculated is in the right order of magnitude.
+
+It feels like I've made no progress and I don't know if that's because my expectations are too high or because I'm actually behind and need to hurry up.
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
