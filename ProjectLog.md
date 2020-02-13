@@ -429,7 +429,7 @@ I thought I'd just draw up a simple diamgram of the preliminary geometry, but th
 
 Okay I used the geometry chart from the cannondale website to draw up a sketch of the geometry. I then made a separate sketch with simplified geometry which I'll use for the initial pin-jointed-structure force calculations. I had to make a couple changes to make sure it was a structure rather than a linkage (ie not going to flop over), and to make it slightly easier to analyse. I'm okay with that because this is only supposed to be a ballpark figure. I don't even know what the final geometry will look like, it might be totally different. I was originally going to just do the calculations based on something really simple like a pin jointed equilateral triangle, just to get a general idea of the forces, but I figured I might as well use an actual bike geometry since I've got the info already. Probably made life more difficult than it needed to be, it took ages to get all the dimensions dialled in. The geo chart is just rounded up to the nearest mm, and without that extra precision nothing matches up. Oh well, on the up side I've got a bit of a better idea of the kind of precision (or adjustability) I'm going to need when building this thing. And it'll help when deciding which angles of joints I'll need, etc. I'll put some images in below.
 
-*table below shows geo chart from cannondale website for the quick 4. values shown are for the size small.*
+*below: geo chart from cannondale website for the quick 4. values shown are for the size small.*
 
 ref| dimension                    | value
 ---|------------------------------|---------
@@ -449,8 +449,9 @@ N  | Trail	                      | 6.7cm
 O  | Stack	                      | 55.4cm
 P  | Reach	                      | 38.8cm
 
-![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/cannondale%20geo%20chart.png?raw=true)
-*image above shows cannondale geo chart reference diagram*
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/cannondale%20geo%20chart.png?raw=true) | ![](https://embed.widencdn.net/img/dorelrl/mnj6uhgssm/2000px@1x/C19_C31409M_QuickDisc_4_ORG_PD.png) 
+----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------
+*above: cannondale geo chart reference diagram*                                                                 | *above: cannondale quick 4*
 
 Click the images below to see them in more detail.
 
