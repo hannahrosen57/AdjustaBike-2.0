@@ -514,6 +514,10 @@ okay so here's what I did:
 
 It feels like I've made no progress and I don't know if that's because my expectations are too high or because I'm actually behind and need to hurry up.
 
+To be fair, when I planned this all out I sort of skipped past product specification and conceptual design, and just assumed I would jump straight in the deep and of embodiment and detaildesign, and get a prototype going as soon as possible. I still want to get that prototype going as soon as possible, but when I get the chance I want to rewrite my timescale to put more emphasis on the conceptual stage. If I'm not throurough and rigorous with this part things will go wrong later. Here's hoping the embodiment design won't take as long as this so I can start building the thing! 
+
+![](https://ars.els-cdn.com/content/image/3-s2.0-B9780128025079000027-f02-15-9780128025079.jpg)
+
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
 ##### {end link}
