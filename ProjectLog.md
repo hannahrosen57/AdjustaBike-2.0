@@ -449,7 +449,7 @@ N  | Trail	                      | 6.7cm
 O  | Stack	                      | 55.4cm
 P  | Reach	                      | 38.8cm
 
-![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/cannondale%20geo%20chart.png?raw=true) | ![](https://embed.widencdn.net/img/dorelrl/mnj6uhgssm/2000px@1x/C19_C31409M_QuickDisc_4_ORG_PD.png) 
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/cannondale%20geo%20chart.png?raw=true) | ![](https://embed.widencdn.net/img/dorelrl/omccgq1yg1/2000px@1x/C20_C31400M_Quick_4_GRA_PD.png) 
 ----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------
 *above: cannondale geo chart reference diagram*                                                                 | *above: cannondale quick 4*
 
