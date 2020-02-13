@@ -417,6 +417,8 @@ I found a couple other geometry charts and the numbers make more sense. Also, I 
 ## Thursday 13/02/2020
 I went looking for a CAD programme to draw up the preliminary geometry and happened across all the fikes from Jamie's Adjustabike project. He shared the folder with me on the Fusion 360 cloud thingy. [Here's a link](https://myhub.autodesk360.com/g/all_projects/active) to the webapp.
 
+I thought I'd just draw up a simple diamgram of the preliminary geometry, but this computer doesn't have Inventor. I tried the Fusion 360 webapp but it doesn't allow you to create drawings. After about an hour tearing my hair out wrestling with AutoCAD I think the best bet is to pack up and go find an engineering lab computer and use Inventor. It will probably save me time in the long run because I won't have to transfer the file from AutoCAD to Inventor, which can be complicated. Ugh this was supposed to be a 5 minute job.
+
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
