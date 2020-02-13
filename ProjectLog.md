@@ -422,6 +422,13 @@ I found a couple other geometry charts and the numbers make more sense. Also, I 
   - [ ] Weight of 'test rider'
   - [ ] Which tests does it need to pass? Static load, definitely. Shock load? Drop test? How high? How heavy? Resonant vibrations? (Probably not, at least not now, as that would require actual FEA on a computer and that's a but too in depth at this stage, but still should be noted for later.) Fatigue strength? How many cycles? 10,000? Should I model it with all the force on the bottom bracket or the seat? Both at once? Both, one at a time? Assuming that the 'test weight' is much higher than an average rider's weight, what safety factor should I use for the test weight?
   - [ ] Use the findings to fill in the relevant requirements for the bike spec (add safety factor requirement? adapt to reflect real life testing standards? Don't forget fatigue strength requirement).
+- [x] Update  log
+
+I've found some great information on test prcedures from the ISO 4210 standard! But it's going to take a while to wade through it all, and it has important info on the other systems as well. So I won't tick it off yet. More detail below. As for safety factors, there's always this old rule of thumb [[source]](https://www.engineeringtoolbox.com/factors-safety-fos-d_1624.html):
+
+![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/safety%20factors.PNG?raw=true)
+
+So I'm thinking maybe 2ish? The test procedures are pretty rigorous, and I don't want it to be too heavy. But I also need to give people peace of mind that it's not going to fall apart even though it's not welded. Technically one would be trusting one's life to this thing. Hmm. Let's say **sf =  2 to 3** for now.
 
 ### Defining, drawing, and simplifying preliminary bicycle geometry
 I went looking for a CAD programme to draw up the preliminary geometry and happened across all the fikes from Jamie's Adjustabike project. He shared the folder with me on the Fusion 360 cloud thingy. [Here's a link](https://myhub.autodesk360.com/g/all_projects/active) to the webapp.
@@ -482,6 +489,28 @@ bicycles, tandems, BMX bicycles, and bicycles designed and equipped for use in s
 as sanctioned competition events, stunting, or aerobatic manoeuvres."* 
 
 However, Parts 3 through 9 no not mention this caveat, even though they reference Parts 1 and 2. I think I'm going to have to read through this whole thing and make notes on it. Then I can decide which parts I need to implement in my design spec. I am focussing on the frame, and because this project is geared towards DIY the burden is partly on the consumer, but I think it's still a good idea to read through the sections on braking, steering, etc. It's a pretty lengthy, dry set of documents, and it goes into detail about how to test all kinds of things (ie mudguards, rubber handlebar grips). It'll take some time, and I don't expect I'll put it into practice with as much rigour as a normal bicycle manufacturer, but there might be useful/important things like guideline stopping distances and bending forces used in tests. And it'll be a good way to check if I've missed any major requirments in my spec. I anticipate the sections on 'Frame and Fork Test Methods' and 'Common Test Methods' will be the most useful. I'll upload the PDFs here in the 'clutter' folder.
+
+okay so here's what I did:
+- skim through the whole thing
+- part 6 seemed the most relevant so I read through that in a bit more detail. There's a lot of helpful info!
+- there's a static test, some drop tests, and fatigue testing for the frame. The parameters, procedure, and setup were given but I couldn't see any requirements for passing/failing the test. I found a couple similar standards which did specify the requirements, and then realised the requirements were all in part 2 (duh)
+- I made a little plan:
+  - [ ] read through the 9 parts. As I go, write down anything relevant to AdjustaBike 2.0, including section refs
+    - [x] 1
+    - [ ] 2 (started!)
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+    - [ ] 7
+    - [ ] 8
+    - [ ] 9
+  - [ ] Review notes and decide if I need to add to or adapt the requirements in my product specification for the bike
+  - [ ] If necessary, translate these new bike requirements into kit requirements
+  - [ ] Quantify all the relevant bike requirements ie steering angle +/- 60 degrees
+  - [ ] Quantify kit requirements as planned above
+- I read through and took notes on Part 1 and a good chunk of Par 2. this is going to take a while.
+- For the drop test, I need a way to approximate the impact force. I could use conservation of momentum, but I don't know how long it'll take to decelerate and the time interval is important. [This article](https://www.wired.com/2014/07/how-do-you-estimate-impact-force/) makes a good point about using a distance instead of a time interval by using the work-energy principle. I can get the maximum distance interval (extension) from the test requirements in ISO 4210. Also, [here's](https://www.youtube.com/watch?v=32k96ahyB2g&feature=emb_title) a video of a wooden bike undergoing the drop test. Could use it to check if the time interval calculated is in the right order of magnitude.
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
