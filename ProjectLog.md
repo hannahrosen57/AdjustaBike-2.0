@@ -423,6 +423,7 @@ I found a couple other geometry charts and the numbers make more sense. Also, I 
   - [ ] Which tests does it need to pass? Static load, definitely. Shock load? Drop test? How high? How heavy? Resonant vibrations? (Probably not, at least not now, as that would require actual FEA on a computer and that's a but too in depth at this stage, but still should be noted for later.) Fatigue strength? How many cycles? 10,000? Should I model it with all the force on the bottom bracket or the seat? Both at once? Both, one at a time? Assuming that the 'test weight' is much higher than an average rider's weight, what safety factor should I use for the test weight?
   - [ ] Use the findings to fill in the relevant requirements for the bike spec (add safety factor requirement? adapt to reflect real life testing standards? Don't forget fatigue strength requirement).
 
+### Defining, drawing, and simplifying preliminary bicycle geometry
 I went looking for a CAD programme to draw up the preliminary geometry and happened across all the fikes from Jamie's Adjustabike project. He shared the folder with me on the Fusion 360 cloud thingy. [Here's a link](https://myhub.autodesk360.com/g/all_projects/active) to the webapp.
 
 I thought I'd just draw up a simple diamgram of the preliminary geometry, but this computer doesn't have Inventor. I tried the Fusion 360 webapp but it doesn't allow you to create drawings. After about an hour tearing my hair out wrestling with AutoCAD I think the best bet is to pack up and go find an engineering lab computer and use Inventor. It will probably save me time in the long run because I won't have to transfer the file from AutoCAD to Inventor, which can be complicated. Ugh this was supposed to be a 5 minute job.
@@ -461,6 +462,26 @@ Click the images below to see them in more detail.
 ![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/prelim%20bike%20geo1.png?raw=true)| ![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/prelim%20bike%20geo2.png?raw=true)
 *quick 4 geometry and simplified geometry superimposed*                                                    | *simplified geometry annotated with dimensions*
 
+### ISO 4210 Cycles — Safety requirements for bicycles
+I found a very useful ISO standard on testing procedures for bicycles. I was able to download it for free from the BSOL database with my library login, which is nice, because they're usually pretty expensive. It is divided into 9 parts as follows:
+
+- Part 1: Terms and definitions
+- Part 2: Requirements for city and trekking, young adult, mountain and racing bicycles
+- Part 3: Common test methods
+- Part 4: Braking test methods
+- Part 5: Steering test methods
+- Part 6: Frame and fork test methods
+- Part 7: Wheels and rim test methods
+- Part 8: Pedals and drive system test methods
+- Part 9: Saddles and seat-post test methods
+
+Parts 1 and 2 say that: 
+
+*"This part of ISO 4210 does not apply to specialized types of bicycle such as delivery bicycles, recumbent
+bicycles, tandems, BMX bicycles, and bicycles designed and equipped for use in severe applications such
+as sanctioned competition events, stunting, or aerobatic manoeuvres."* 
+
+However, Parts 3 through 9 no not mention this caveat, even though they reference Parts 1 and 2. I think I'm going to have to read through this whole thing and make notes on it. Then I can decide which parts I need to implement in my design spec. I am focussing on the frame, and because this project is geared towards DIY the burden is partly on the consumer, but I think it's still a good idea to read through the sections on braking, steering, etc. There might be important things like guideline stopping distances and bending forces used in tests. I anticipate the sections on 'Frame and Fork Test Methods' and 'Common Test Methods' will be the most useful. I'll upload the PDFs here in the 'clutter' folder.
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
