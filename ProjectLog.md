@@ -539,6 +539,7 @@ Late night last night because I had a bit of momentum going, paying for it today
 - [ ] Choose which requirements from ISO 4210 to add to the spec
   - [ ] Could write something like 'frame should comply to ISO 4210; tests may be carried out with FEA if physical tests are impractical'
   - [ ] Still need to analyse forces in order to find the maximum link and joint forces for the kit specification, and for design insight
+  - [ ] Could write seperate document summarising estimated forces from tests and the requirements for maximum permissable displacement etc
 - [ ] Referring to ISO 4210 notes and Jamie's spec, add and/or rewrite requirements to bike specification, using placeholders for quantities
 - [ ] Fill in as many bike spec quantities as possible
 - [ ] Continue with force calculations as outlined above
