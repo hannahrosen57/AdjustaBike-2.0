@@ -5,8 +5,9 @@ code              | title
 ISO 4210          | Cycles — Safety requirements for bicycles
 BS EN 14764       | City and trekking bicycles — Safety requirements and test methods *(note: this is outdated and was replaced by ISO 4210, but still helpful)*
 ISO 8098          | Cycles — Safety requirements for bicycles for young children
+ISO 9633          | Cycle chains — Characteristics and test methods
 
-The former is the most relevant. I couldn't find the requirements for some of the tests, so I went looking and found the numbers I wanted in the second and third standard, but then realised they were hiding (in plain sight) in part 2 of ISO 4210 all along. I'll leave them here anyway since I already went and found them.
+The former is the most relevant. I couldn't find the requirements for some of the tests, so I went looking and found the numbers I wanted in the second and third standard, but then realised they were hiding (in plain sight) in part 2 of ISO 4210 all along. I'll leave them here anyway since I already went and found them. The fourth was refenced by ISO 4210.
 
 For reference, these are the parts of ISO 4210:
 
