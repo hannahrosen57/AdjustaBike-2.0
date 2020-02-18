@@ -532,18 +532,23 @@ Late night last night because I had a bit of momentum going, paying for it today
   - [ ] 8
   - [ ] 9
   
-  ## Tuesday 18th February
+## Tuesday 18th February
   
 To do today:  
 - [ ] read through the 9 parts. As I go, write down anything relevant to AdjustaBike 2.0, including section refs
   - [x] 3
   - [x] 4
   - [x] 5
-  - [ ] 6 ...
-  - [ ] 7
-  - [ ] 8
-  - [ ] 9
-  
+  - [x] 6 
+  - [x] 7
+  - [ ] 8...
+  - [x] 9
+
+## Wednesday 19th February
+
+First thing:
+- [ ] Finish writing notes on Part 8 of ISO 4210
+
 Next steps:
 - [ ] Print and annotate Jamie's Design Specification. Note anything I'd like to add to mine (they'll be a bit different since we're designing different products)
 - [ ] Use Jamie's categories as inspiration to add some more structure to my Product Specifications
