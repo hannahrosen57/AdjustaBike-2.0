@@ -523,7 +523,7 @@ To be fair, when I planned this all out I sort of skipped past product specifica
 Late night last night because I had a bit of momentum going, paying for it today with major inertia. Focussing on taking notes on the standard and then I'll come in on Sunday and try to make some more progress with the spec.
 
 - [ ] read through the 9 parts. As I go, write down anything relevant to AdjustaBike 2.0, including section refs
-  - [ ] 2 
+  - [x] 2 
   - [ ] 3
   - [ ] 4
   - [ ] 5
@@ -532,8 +532,19 @@ Late night last night because I had a bit of momentum going, paying for it today
   - [ ] 8
   - [ ] 9
   
-  ## Sunday 16th February
+  ## Tuesday 18th February
   
+To do today:  
+- [ ] read through the 9 parts. As I go, write down anything relevant to AdjustaBike 2.0, including section refs
+  - [ ] 3
+  - [ ] 4
+  - [ ] 5
+  - [ ] 6
+  - [ ] 7
+  - [ ] 8
+  - [ ] 9
+  
+Next steps:
 - [ ] Print and annotate Jamie's Design Specification. Note anything I'd like to add to mine (they'll be a bit different since we're designing different products)
 - [ ] Use Jamie's categories as inspiration to add some more structure to my Product Specifications
 - [ ] Choose which requirements from ISO 4210 to add to the spec
@@ -543,8 +554,6 @@ Late night last night because I had a bit of momentum going, paying for it today
 - [ ] Referring to ISO 4210 notes and Jamie's spec, add and/or rewrite requirements to bike specification, using placeholders for quantities
 - [ ] Fill in as many bike spec quantities as possible
 - [ ] Continue with force calculations as outlined above
-
-I know that's a lot to aim for in one day but I can continue on Monday!
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
