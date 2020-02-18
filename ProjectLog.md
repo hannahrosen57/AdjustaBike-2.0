@@ -536,10 +536,10 @@ Late night last night because I had a bit of momentum going, paying for it today
   
 To do today:  
 - [ ] read through the 9 parts. As I go, write down anything relevant to AdjustaBike 2.0, including section refs
-  - [ ] 3
-  - [ ] 4
-  - [ ] 5
-  - [ ] 6
+  - [x] 3
+  - [x] 4
+  - [x] 5
+  - [ ] 6 ...
   - [ ] 7
   - [ ] 8
   - [ ] 9
