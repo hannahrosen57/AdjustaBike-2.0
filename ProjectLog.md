@@ -560,6 +560,43 @@ Next steps:
 - [ ] Fill in as many bike spec quantities as possible
 - [ ] Continue with force calculations as outlined above
 
+## Monday 24th February
+Okay, since I last updated here I've made quite of progress with both the product specification and my plan for the next steps.
+- for today:
+  - [x] update log
+  - [ ] emails
+    - [ ] assesor meeting
+    - [ ] DSA
+    - [ ] RE Bristol
+  - [ ] tie up loose ends with specification
+    - [ ] fill in quantity gaps
+    - [ ] demand/wish and weights
+    - [ ] justifications
+    - [ ] drop tests
+  - [ ] type up 'market breakdown' table
+  - [ ] type up weight study table
+  - [ ] type up cost study table
+  - [ ] update/add to 'available technologies' table
+  - [ ] start component study
+  - [ ] call RE FWAB and FPCA
+  - [ ] maybe talk to SS and/or RV RE SysMod?
+- next steps (this week?):
+  - [ ] finish component study
+  - [ ] make any MINOR changes to spec if needed
+  - [ ] do some ROUGH, QUICK calculations to get cost/weight/angle/length targets
+  - [x] lay out kit criteria
+  - [ ] find data and score each technology option on criteria
+  - [ ] brainstorm categories and options for morphological chart
+  - [ ] tabulate and sketch all the morph chart options
+  - [ ] choose options for a few initial concepts
+  - [ ] sketch them
+  - [ ] mini feasibility study for bearing interfaces for each concept
+  - [ ] evaluate initial concepts
+    - [ ] criteria? weights?
+    - [ ] score each concept
+  - [ ] define and sketch final concept
+  
+
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
 
 ##### {end link}
