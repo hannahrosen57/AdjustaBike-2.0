@@ -564,10 +564,10 @@ Next steps:
 Okay, since I last updated here I've made quite of progress with both the product specification and my plan for the next steps.
 - for today:
   - [x] update log
-  - [ ] emails
-    - [ ] assesor meeting
-    - [ ] DSA
-    - [ ] RE Bristol
+  - [x] emails
+    - [x] assesor meeting
+    - [x] DSA
+    - [x] RE Bristol
   - [ ] tie up loose ends with specification
     - [ ] fill in quantity gaps
     - [ ] demand/wish and weights
