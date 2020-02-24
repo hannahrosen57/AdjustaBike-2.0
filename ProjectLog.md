@@ -565,21 +565,18 @@ Okay, since I last updated here I've made quite of progress with both the produc
 - for today:
   - [x] update log
   - [x] emails
-    - [x] assesor meeting
-    - [x] DSA
-    - [x] RE Bristol
-  - [ ] tie up loose ends with specification
-    - [ ] fill in quantity gaps
-    - [ ] demand/wish and weights
-    - [ ] justifications
-    - [ ] drop tests
+    - [x] arrange assessor meeting
+  - [x] tie up loose ends with specification
+    - [x] fill in quantity gaps
+    - [x] demand/wish and weights
+    - [x] justifications
+  - [x] lecture on presentations
+  - [ ] summarise drop tests
   - [ ] type up 'market breakdown' table
   - [ ] type up weight study table
   - [ ] type up cost study table
   - [ ] update/add to 'available technologies' table
   - [ ] start component study
-  - [ ] call RE FWAB and FPCA
-  - [ ] maybe talk to SS and/or RV RE SysMod?
 - next steps (this week?):
   - [ ] finish component study
   - [ ] make any MINOR changes to spec if needed
@@ -595,6 +592,15 @@ Okay, since I last updated here I've made quite of progress with both the produc
     - [ ] criteria? weights?
     - [ ] score each concept
   - [ ] define and sketch final concept
+#### To do before Wednesday 4th:
+(assessor meeting on Weds 4th, then presentation on Fri 6th)
+  - [ ] open source hardware case study
+  - [ ] rewrite timescale
+  - [ ] plan presentation
+  - [ ] collect all images for presentation
+  - [ ] make the presentation
+  - [ ] write rough script/talking points
+  - [ ] time presentation
   
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
