@@ -595,12 +595,21 @@ Okay, since I last updated here I've made quite of progress with both the produc
 #### To do before Wednesday 4th:
 (assessor meeting on Weds 4th, then presentation on Fri 6th)
   - [ ] open source hardware case study
+  - [ ] improve lit review based on feedback
   - [ ] rewrite timescale
   - [ ] plan presentation
   - [ ] collect all images for presentation
   - [ ] make the presentation
   - [ ] write rough script/talking points
   - [ ] time presentation
+
+## Tuesday 25th February
+  - [x] test methods
+  - [ ] market breakdown
+  - [ ] weight study
+  - [ ] cost study
+  - [ ] avtech table
+  - [ ] start component study
   
 
 [jump to top](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/ProjectLog.md#project-log)
