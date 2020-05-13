@@ -1,29 +1,29 @@
                                                                                 
-ADS NASTRAN VERSION 15.0.0.187  00:14  05/06/20                                 
+ADS NASTRAN VERSION 15.0.0.187  14:19  05/06/20                                 
                                                                                 
-TOTAL MASS = 7.225642E-03                                                       
+TOTAL MASS = 6.001163E-03                                                       
                                                                                 
-MAXIMUM STIFFNESS MATRIX DIAGONAL =  2.2054E+09  AT GRID 209 COMPONENT 4        
-MINIMUM STIFFNESS MATRIX DIAGONAL =  6.0383E+05  AT GRID 623 COMPONENT 3        
+MAXIMUM STIFFNESS MATRIX DIAGONAL =  4.2478E+09  AT GRID 410 COMPONENT 4        
+MINIMUM STIFFNESS MATRIX DIAGONAL =  1.1656E+06  AT GRID 90  COMPONENT 3        
                                                                                 
 NUMBER OF NEGATIVE TERMS ON FACTOR DIAGONAL = 0                                 
-MAXIMUM MATRIX FACTOR DIAGONAL RATIO = 2.621E+05 AT GRID 623 COMPONENT 4        
+MAXIMUM MATRIX FACTOR DIAGONAL RATIO = 1.349E+04 AT GRID 1023 COMPONENT 1       
                                                                                 
-FACTORED SPARSE MATRIX SIZE =         160100 WORDS        2.4 MEGABYTES         
-ADDITIONAL MEMORY ALLOCATED =         274560 WORDS        2.1 MEGABYTES         
+FACTORED SPARSE MATRIX SIZE =         199460 WORDS        3.0 MEGABYTES         
+ADDITIONAL MEMORY ALLOCATED =         427136 WORDS        3.3 MEGABYTES         
                                                                                 
-MAXIMUM SINGLE POINT CONSTRAINT FORCE MAGNITUDE  =  5.590430E+02  AT GRID 410   
-MAXIMUM SINGLE POINT CONSTRAINT MOMENT MAGNITUDE =  4.963021E+04  AT GRID 410   
+MAXIMUM SINGLE POINT CONSTRAINT FORCE MAGNITUDE  =  5.642991E+02  AT GRID 809   
+MAXIMUM SINGLE POINT CONSTRAINT MOMENT MAGNITUDE =  7.954801E+04  AT GRID 809   
                                                                                 
-MAXIMUM DISPLACEMENT MAGNITUDE =  2.745771E+00  AT GRID 340                     
-MAXIMUM ROTATION MAGNITUDE     =  1.579723E-02  AT GRID 54                      
+MAXIMUM DISPLACEMENT MAGNITUDE =  3.591723E+00  AT GRID 670                     
+MAXIMUM ROTATION MAGNITUDE     =  1.720168E-02  AT GRID 104                     
                                                                                 
-EPSILON       =  2.672686E-12                                                   
-STRAIN ENERGY =  3.949255E+03                                                   
+EPSILON       =  2.292176E-11                                                   
+STRAIN ENERGY =  3.973277E+03                                                   
                                                                                 
-MAXIMUM BEAM ELEMENT TOTAL STRESS     =  7.485621E+01  AT ELEMENT 271           
-MAXIMUM BEAM ELEMENT VON MISES STRESS =  7.831710E+01  AT ELEMENT 271           
-MINIMUM BEAM ELEMENT TOTAL STRESS     = -7.020800E+01  AT ELEMENT 271           
+MAXIMUM BEAM ELEMENT TOTAL STRESS     =  7.485621E+01  AT ELEMENT 534           
+MAXIMUM BEAM ELEMENT VON MISES STRESS =  7.831710E+01  AT ELEMENT 534           
+MINIMUM BEAM ELEMENT TOTAL STRESS     = -7.020800E+01  AT ELEMENT 534           
                                                                                 
-TOTAL CPU TIME = 1.6 SECONDS                                                    
-WALLCLOCK TIME = 5.3 SECONDS                                                    
+TOTAL CPU TIME = 1.9 SECONDS                                                    
+WALLCLOCK TIME = 5.1 SECONDS                                                    

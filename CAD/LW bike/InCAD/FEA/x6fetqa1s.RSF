@@ -1,0 +1,29 @@
+                                                                                
+ADS NASTRAN VERSION 15.0.0.187  03:11  05/07/20                                 
+                                                                                
+TOTAL MASS = 4.218894E-03                                                       
+                                                                                
+MAXIMUM STIFFNESS MATRIX DIAGONAL =  1.8577E+09  AT GRID 409 COMPONENT 4        
+MINIMUM STIFFNESS MATRIX DIAGONAL =  8.2043E+05  AT GRID 367 COMPONENT 2        
+                                                                                
+NUMBER OF NEGATIVE TERMS ON FACTOR DIAGONAL = 0                                 
+MAXIMUM MATRIX FACTOR DIAGONAL RATIO = 7.277E+04 AT GRID 1015 COMPONENT 5       
+                                                                                
+FACTORED SPARSE MATRIX SIZE =         191256 WORDS        2.9 MEGABYTES         
+ADDITIONAL MEMORY ALLOCATED =         397312 WORDS        3.0 MEGABYTES         
+                                                                                
+MAXIMUM SINGLE POINT CONSTRAINT FORCE MAGNITUDE  =  5.272974E+02  AT GRID 73    
+MAXIMUM SINGLE POINT CONSTRAINT MOMENT MAGNITUDE =  8.988106E+04  AT GRID 297   
+                                                                                
+MAXIMUM DISPLACEMENT MAGNITUDE =  1.479155E+01  AT GRID 591                     
+MAXIMUM ROTATION MAGNITUDE     =  4.147378E-02  AT GRID 705                     
+                                                                                
+EPSILON       =  2.268757E-12                                                   
+STRAIN ENERGY =  1.118447E+04                                                   
+                                                                                
+MAXIMUM BEAM ELEMENT TOTAL STRESS     =  1.350950E+02  AT ELEMENT 376           
+MAXIMUM BEAM ELEMENT VON MISES STRESS =  1.413901E+02  AT ELEMENT 376           
+MINIMUM BEAM ELEMENT TOTAL STRESS     = -1.284771E+02  AT ELEMENT 376           
+                                                                                
+TOTAL CPU TIME = 1.8 SECONDS                                                    
+WALLCLOCK TIME = 5.3 SECONDS                                                    
