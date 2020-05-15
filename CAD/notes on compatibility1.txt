@@ -1,0 +1,8 @@
+NOTES ON COMPATIBILITY:
+Components below can be taken from a cheap second-hand donor bike or purchased seperately. Use shims if necessary, leaving a gap for the clamp's grub screw.
+Bottom Bracket: 73mm English Thread
+Fork: 1" ISO standard fork steerer. Ø41mm HT for a 11/8" fork also available, but needs size 7 clamps.
+Seatpost: 26-27.5mm OD for Size 5 clamp (M51-5, shown here) or 21-22.5mm OD for Size 4 clamp (M50-4).
+Wheels: 29" rims with 44mm tyres and 135mm rear hub spacing shown for reference. For bigger wheels (or longer wheelbase) - use longer CS, SS, CSS, and/or SSS tubes. For smaller wheels - use shorter CS and SS tubes, and/or longer axle spacers (CSS shown at minimum).
+Brakes: Front - any compatible brake. Rear - use coaster brake or create attachment point for callipers with additional clamps.
+Gears: Single speed or hub gears are the simplest butnot the only options. Consider the weight of the entire bike when selecting gear ratio(s).
