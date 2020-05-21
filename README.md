@@ -6,6 +6,7 @@ This project was undertaken to investigate the feasibility of an open source, lo
 Quick Links:
 
 - [final report](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/final%20report.pdf)
+- [poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf)
 - [STL files and 3D PDFs of assemblies](https://github.com/hannahrosen57/AdjustaBike-2.0/tree/master/CAD/exportedCAD)
 - [Revision 1 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/bike.pdf)
 - [Revision 2 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LW%20bike%2010.pdf)
