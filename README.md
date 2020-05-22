@@ -3,20 +3,15 @@ This project was undertaken to investigate the feasibility of an open source, lo
 
 You are free to copy, distribute, and make changes to these designs. If you use these designs for your own project, please give credit to Hannah Rosen, link back here, and publish any new documentation in line with [Open Source Hardware principles](https://www.oshwa.org/definition/). Please also consider sending me pictures and telling me how you got on! Thanks.
 
-Quick Links:
-
-- [Poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf)
-- [Final Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation2.pdf)
-- [Preliminary Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation1.pdf)
-- [Final Report](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/final%20report.pdf)
-- [STL Files and 3D PDFs of Assemblies](https://github.com/hannahrosen57/AdjustaBike-2.0/tree/master/CAD/exportedCAD)
-- [Revision 1 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/bike.pdf)
-- [Revision 2 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LW%20bike%2010.pdf)
-- [Seatpost Link Part Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LINK%205.pdf)
-- [Revision 1 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/bike%20parts%20list.pdf)
-- [Revision 2 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/lw%20parts%20list%20web%20links.pdf)
-- [Kee Klamp Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/Kee_Klamp_components_and_new_slope_fittings.pdf)
-- [Kee Lite Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/ks_Kee-Lite_KSys.pdf)
+|<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/revision%202%20bike.png?raw=true" height="500">|<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/renders/LW%20bike%2010.png?raw=true" height="500">|
+|---|---|
+|Quick Links:
+|- [Poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf)|- [Final Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation2.pdf)
+|- [Preliminary Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation1.pdf)|- [Final Report](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/final%20report.pdf)
+|- [STL Files and 3D PDFs of Assemblies](https://github.com/hannahrosen57/AdjustaBike-2.0/tree/master/CAD/exportedCAD)|- [Seatpost Link Part Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LINK%205.pdf)
+|- [Revision 1 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/bike.pdf)|- [Revision 2 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LW%20bike%2010.pdf)
+|- [Revision 1 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/bike%20parts%20list.pdf)|- [Revision 2 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/lw%20parts%20list%20web%20links.pdf)
+|- [Kee Klamp Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/Kee_Klamp_components_and_new_slope_fittings.pdf)|- [Kee Lite Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/ks_Kee-Lite_KSys.pdf)
 
 Notes 22/05/2020:
 1. If the reader wishes to build a prototype, and "cheap" is higher up on their list of priorities than "lightweight," some or all of the aluminium clamps could be replaced with cast iron clamps.
@@ -39,6 +34,4 @@ Notes 22/05/2020:
 1. If there is a problem with the seat post rattling, use a spacer to fill the gap between the seat post and the seat tube. Pvc pipe, shim stock, or folded aluminium foil could be used. To stop it from slipping down the seat tube, drill a horizontal hole through the bottom of the seatpost below the spacer (through both sides of the tube), and insert a length of threaded bar. Secure it in place with two nuts on the threaded bar inside the seat post, tightened to brace outwards against the ID of the seatpost. Make sure it protrudes far enough to hold the spacer in place, but not far enough to scratch against the ID of the seat tube.
 1. A placeholder for the drivetrain was not modelled, because the user can choose to use any number of options - fixed gear, hub gears, cassette gears, or even a belt drive. In the case of fixed gears, chain tensioning would be facilitated by adjusting the sliding clamps. However, regardless of one's preferred drivetrain, it would be advisable to model a simple placeholder and check there is enough clearance, making small adjustments to tube lengths if necessary, before ordering parts.
 
-<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/revision%202%20bike.png?raw=true" width="700">
-<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/renders/LW%20bike%2010.png?raw=true" width="700"> 
 <img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.jpg?raw=true" width="700">
