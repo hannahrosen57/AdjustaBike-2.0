@@ -39,4 +39,4 @@ Notes 22/05/2020:
 
 <img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/revision%202%20bike.png?raw=true" width="700">
 <img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/renders/LW%20bike%2010.png?raw=true" width="700"> 
-![](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.jpg?raw=true)
+<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.jpg?raw=true" width="700">
