@@ -3,7 +3,7 @@ This project was undertaken to investigate the feasibility of an open source, lo
 
 You are free to copy, distribute, and make changes to these designs. If you use these designs for your own project, please give credit to Hannah Rosen, link back here, and publish any new documentation in line with [Open Source Hardware principles](https://www.oshwa.org/definition/). Please also consider sending me pictures and telling me how you got on! Thanks.
 
-|<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/revision%202%20bike.png?raw=true" height="500">|<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/renders/LW%20bike%2010.png?raw=true" height="500">|
+|<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/revision%202%20bike.png?raw=true" height="300">|<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/renders/LW%20bike%2010.png?raw=true" height="300">|
 |---|---|
 |Quick Links:
 |- [Poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf)|- [Final Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation2.pdf)
