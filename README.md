@@ -6,14 +6,14 @@ You are free to copy, distribute, and make changes to these designs. If you use 
 |<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/revision%202%20bike.png?raw=true" height="200">|<img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/renders/LW%20bike%2010.png?raw=true" height="200">|
 |---|---|
 |Quick Links:
-|- [Poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf)|- [Final Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation2.pdf)
+|- [Poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf) (or scroll down↓)|- [Final Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation2.pdf)
 |- [Preliminary Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation1.pdf)|- [Final Report](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/final%20report.pdf)
 |- [STL Files and 3D PDFs of Assemblies](https://github.com/hannahrosen57/AdjustaBike-2.0/tree/master/CAD/exportedCAD)|- [Seatpost Link Part Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LINK%205.pdf)
 |- [Revision 1 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/bike.pdf)|- [Revision 2 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LW%20bike%2010.pdf)
 |- [Revision 1 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/bike%20parts%20list.pdf)|- [Revision 2 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/lw%20parts%20list%20web%20links.pdf)
 |- [Kee Klamp Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/Kee_Klamp_components_and_new_slope_fittings.pdf)|- [Kee Lite Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/ks_Kee-Lite_KSys.pdf)
 
-Notes 22/05/2020:
+### Notes 22/05/2020:
 1. If the reader wishes to build a prototype, and "cheap" is higher up on their list of priorities than "lightweight," some or all of the aluminium clamps could be replaced with cast iron clamps.
     1. The cast iron Kee Klamps use the same part number as the equivalent aluminium Kee Lite clamps, without the "L" prefix. For example, 10-6 is equivalent to L10-6.
     1. Other, cheaper, brands are available, but care should be taken to ensure they are rated to the same loading conditions. A brand comparison and part number conversion table can be found in the report (linked above).
