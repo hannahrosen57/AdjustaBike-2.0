@@ -1,20 +1,22 @@
 # Design of an Open Source, Low Cost, DIY Cycle Kit
 This project was undertaken to investigate the feasibility of an open source, low cost, DIY cycle kit. I have succeeded in developing a design for a bicycle frame constructed from handrail clamps, and documented the design so that anyone can continue the work or build a prototype. The design can be customised by the user, and sample geometries were included in the assembly drawings. FEA was used to analyse the design, and the bicycle frame was optimised in response to the results. The final design weighs approximately 8.4kg and costs approximately £276 for the frame alone. Further work could include building and testing prototypes, further FEA analysis, espescially focusing on the bottom bracket clamp in dynamic loads, and designing other geometries using the same components such as a cargo bike or recumbent tricycle.
 
-You are free to copy, distribute, and make changes to these designs. If you use these designs for your own project, please give credit to Hannah Rosen, link back here, and publish any new documentation in line with Open Source Hardware principles. Please also consider sending me pictures and telling me how you got on! Thanks.
+You are free to copy, distribute, and make changes to these designs. If you use these designs for your own project, please give credit to Hannah Rosen, link back here, and publish any new documentation in line with [Open Source Hardware principles](https://www.oshwa.org/definition/). Please also consider sending me pictures and telling me how you got on! Thanks.
 
 Quick Links:
 
-- [poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf)
-- [final presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation2.pdf)
-- [preliminary presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation1.pdf)
-- [final report](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/final%20report.pdf)
-- [STL files and 3D PDFs of assemblies](https://github.com/hannahrosen57/AdjustaBike-2.0/tree/master/CAD/exportedCAD)
+- [Poster](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/poster.pdf)
+- [Final Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation2.pdf)
+- [Preliminary Presentation](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/Presentation1.pdf)
+- [Final Report](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/final%20report.pdf)
+- [STL Files and 3D PDFs of Assemblies](https://github.com/hannahrosen57/AdjustaBike-2.0/tree/master/CAD/exportedCAD)
 - [Revision 1 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/bike.pdf)
 - [Revision 2 Bike Frame Assembly Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LW%20bike%2010.pdf)
-- [seatpost link part drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LINK%205.pdf)
+- [Seatpost Link Part Drawing](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/LINK%205.pdf)
 - [Revision 1 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/bike%20parts%20list.pdf)
 - [Revision 2 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/lw%20parts%20list%20web%20links.pdf)
+- [Kee Klamp Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/Kee_Klamp_components_and_new_slope_fittings.pdf)
+- [Kee Lite Catalogue](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/possible%20components/Kee/ks_Kee-Lite_KSys.pdf)
 
 Notes 22/05/2020:
 1. If the reader wishes to build a prototype, and "cheap" is higher up on their list of priorities than "lightweight," some or all of the aluminium clamps could be replaced with cast iron clamps.
@@ -29,8 +31,8 @@ Notes 22/05/2020:
         1. The variable side-outlet tee (kee 19) is another option which should be investigated, but note that the testing data for the aluminium Kee Lite clamps states that type L19 is "not suitable to absorb bending load, bending moments are not allowed". The cast iron Kee Klamp testing data however rates type 19 to 1.25kN of bending load resistance. 
         1. More information on bending moment resistance should be sought from Kee Systems if type L19 is used. Testing should also be done to determine whether the asymmetry and short gripping of types 19 and L19 would cause problems when supporting the diagonal loads on the bottom bracket.
     1. Both of these options would mean that the seat tube needs to be the same size as the bottom bracket. Unless a bottom bracket shell can be found or made (simple enough if one has access to a lathe, or is willing to contract a third party to machine it for them) which fits a Size 6 Kee Klamp (possibly with the use of a shim), this would mean that size 7 tubing would need to be used for most of the frame, as in Revision 1 of the current design (assembly drawing and BOM linked above). This would add cost and weight, but is still feasible.
-1. In case it was unclear, the only custom part (apart from cutting tubes to length) is the seat post link. It can be made easily from flat bar with just a hacksaw, a drill, and a file. The part drawing is linked above and should be easy to understand even for people with no engineering knowledge. 
-    1. The clamps are all standard; simplified CAD models were created from the dimensions given by the manufacturer in order to model the assembly. Part numbers and vendor links are given in the bills of materials.
+1. The only custom part (apart from cutting tubes to length) is the seat post link. It can be made easily from flat bar with just a hacksaw, a drill, and a file. The part drawing is linked above and should be easy to understand even for people with no engineering knowledge. 
+    1. The clamps are all standard; simplified CAD models were created from the dimensions given by the manufacturer in order to model the assembly. Part numbers and vendor links are given in the bills of materials. The catalogues are linked above.
 1. If the prototype is built and there is a problem with rattling, simple rubber washers/gaskets should be used in the swivel sockets. 
     1. This could also help if the surface of the swivel sockets used as "drop outs" (technically, frame ends) does not have a good enough surface finish. Just pop a rubber washer between the frame end and the axle nut.
     1. The number of washers used as spacers depends on the thickness of the washers, especially in the seat post clamp/seatstay assembly. Adjust as appropriate.
