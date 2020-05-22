@@ -17,8 +17,8 @@ Quick Links:
 - [Revision 2 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/lw%20parts%20list%20web%20links.pdf)
 
 Notes 22/05/2020:
-1. If the reader wishes to build a prototype, and "cheap" is higher up on their list of priorities than "lightweight," some or all of the aluminium clamps could be used in place of the cast iron clamps.
-    1. The cast iron Kee Klamps use the same part number as the aluminium Kee Lite clamps, without the "L" prefix. For example, 10-6 is equivalent to L10-6.
+1. If the reader wishes to build a prototype, and "cheap" is higher up on their list of priorities than "lightweight," some or all of the aluminium clamps could be replaced with cast iron clamps.
+    1. The cast iron Kee Klamps use the same part number as the equivalent aluminium Kee Lite clamps, without the "L" prefix. For example, 10-6 is equivalent to L10-6.
     1. Other, cheaper, brands are available, but care should be taken to ensure they are rated to the same loading conditions. A brand comparison and part number conversion table can be found in the report (linked above).
 1. Note that a commuter bike geometry is shown as a starting point, but the reader is encouraged to adapt the design to suit their requirements, such as designing a tandem or quad-cycle. Sample geometries for different sizes of the commuter bike geometry (with tube lengths) are shown on the Rev 2 assembly drawing.
 1. Note that this is ready for anyone to take these designs and build a prototype, but more testing needs to be done before it can be certified 100% bombproof. Proceed with caution.
