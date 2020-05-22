@@ -16,6 +16,16 @@ Quick Links:
 - [Revision 1 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/bike%20parts%20list.pdf)
 - [Revision 2 Bike Frame Bill of Materials (with weblinks)](https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/report/lw%20parts%20list%20web%20links.pdf)
 
+Notes 22/05/2020:
+1. Note that this is ready for anyone to take these designs and build a prototype, but more testing needs to be done before it can be certified 100% bombproof. Proceed with caution.
+    a. In particular, attention should be paid to the behaviour of the bottom bracket clamp under dynamic loads, and after many load cycles. The best way to test this might be too build one and ride it around for a while.
+1. In case it was unclear, the only custom part (apart from cutting tubes to length) is the seat post link. It can be made easily from flat bar with just a hacksaw, a drill, and a file. The part drawing is linked above and should be easy to understand even for people with no engineering knowledge.
+1. If the reader wishes to build a prototype, and "cheap" is higher up on their list of priorities than "lightweight," some or all of the aluminium clamps could be used in place of the cast iron clamps.
+1. If the prototype is built and there is a problem with rattling, simple rubber washers/gaskets should be used in the swivel sockets. 
+    a. This could also help if the surface of the swivel sockets used as "drop outs" (technically, frame ends) does not have a good enough surface finish. Just pop a rubber washer between the frame end and the axle nut.
+    b. The number of washers used as spacers depends on the thickness of the washers, especially in the seat post clamp/seatstay assembly. Adjust as appropriate.
+1. If there is a problem with the seat post rattling, use a spacer to fill the gap between the seat post and the seat tube. Pvc pipe, shim stock, or folded aluminium foil could be used. To stop it from slipping down the seat tube, drill a horizontal hole through the bottom seatpost below the spacer (through both sides of the tube), and insert a length of threaded bar. Secure it in place with two nuts on the threaded bar inside the seat post, tightened to brace outwards against the ID of the seatpost. Make sure it protrudes far enough to hold the spacer in place, but not to scratch against the ID of the seat tube.
+1. A placeholder for the drivetrain was not modelled, because the user can choose to use any number of options - fixed gear, hub gears, cassette gears, or even a belt drive. In the case of fixed gears, chain tensioning would be facilitated by adjusting the sliding clamps. However, regardless of one's preferred drivetrain, it would be advisable to model a simple placeholder and check there is enough clearance, making small adjustments to tube lengths if necessary, before ordering parts.
 
 <img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/clutter/revision%202%20bike.png?raw=true" width="700">
 <img src="https://github.com/hannahrosen57/AdjustaBike-2.0/blob/master/CAD/renders/LW%20bike%2010.png?raw=true" width="700"> 
